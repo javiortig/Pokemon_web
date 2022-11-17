@@ -150,7 +150,7 @@ function Details({ history, ...props }) {
               </Col>
             </Row>
             <PokeEvolution data={details.evolution} types={details.types} />
-            <PokeCartasFisicas data={details.evolution} types={details.types} />
+            <PokeCartasFisicas name={details.name} types={details.types} />
           </>
         )}
       </Container>

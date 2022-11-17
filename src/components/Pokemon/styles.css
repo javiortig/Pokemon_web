@@ -674,6 +674,22 @@
   font-size: 40px;
 }
 
+.carta-fisica-container{
+  margin-left: 2.5%;
+  display: flexbox;
+  justify-content:space-between;
+}
+
+.carta-fisica{
+  margin: 40px;
+  /* justify-self: center; */
+  /* align-self: center; */
+}
+
+/* .texto-carta-fisica{
+  align-self: flex-start;
+} */
+
 @media screen and (max-width: 767px) {
   .evolution-item {
     width: 100%;
