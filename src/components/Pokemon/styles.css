@@ -571,11 +571,12 @@
 /* Stats */
 .container-bar {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   flex-wrap: wrap;
   background-color: var(--card_gray);
   padding: 14px 12px;
   border-radius: 10px;
+  column-gap: 50px;
 }
 
 .bar-item {

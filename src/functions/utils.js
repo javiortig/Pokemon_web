@@ -11,6 +11,7 @@ export function GetImageById(id) {
 
 export function GetDescubiertoByNumPokedex(number) {
   let resFlag = false;
+
   myPokemons.forEach(pokemon => {
     if (parseInt(pokemon.Num_Pokedex) === parseInt(number)){
       resFlag = (pokemon.Descubierto !== "");
@@ -18,6 +19,64 @@ export function GetDescubiertoByNumPokedex(number) {
   });
 
   return resFlag;
+}
+
+export function GetDescubiertoByName(name) {
+  let resFlag = false;
+
+  myPokemons.forEach(pokemon => {
+
+    if (pokemon.Nombre.toLowerCase() === name){
+      resFlag = (pokemon.Descubierto !== "");
+    }
+  });
+
+  return resFlag;
+}
+
+export function GetMyPokemonByName(name) {
+
+  for(let i=0; i< myPokemons.length; i++){
+    if (myPokemons[i].Nombre.toLowerCase() === name){
+      return myPokemons[i];
+    }
+  }
+
+  return null;
+}
+
+export function GetStatsByPokemonName(name){
+  for(let i=0; i< myPokemons.length; i++){
+    if (myPokemons[i].Nombre.toLowerCase() === name){
+      return [{
+        "name": "Health",
+        "base_stat": myPokemons[i].Vida
+      },
+      {
+        "name": "Speed",
+        "base_stat": myPokemons[i].Velocidad
+      }];
+    }
+  }
+
+  return null;
+}
+
+export function GetAbilitiesByPokemonName(name){
+  let abilities_set = new Set();
+  let abilities = "";
+
+  for(let i=0; i< myPokemons.length; i++){
+    if (myPokemons[i].Nombre.toLowerCase() === name){
+      abilities_set.add(myPokemons[i].Nombre_Habilidad);
+    }
+  }
+
+  for (var it = abilities_set.values(), val= null; val=it.next().value; ) {
+    abilities += val + ', ';
+  }
+
+  return (abilities === "")?("-"):(abilities.slice(0, -2) + '.');
 }
 
 export function DetermineGenderRate(gender) {

@@ -12,6 +12,9 @@ import Footer from "../../components/Others/Footer";
 import ModalError from "../../components/Others/ModalError";
 import api from "../../services/api";
 import axios from "axios";
+import PokeCartasFisicas from "../../components/Pokemon/PokeCartasFisicas";
+
+import { GetDescubiertoByName, GetMyPokemonByName, GetStatsByPokemonName , GetAbilitiesByPokemonName} from "../../functions/utils";
 
 function Details({ history, ...props }) {
   const { name } = props.match.params;
@@ -34,7 +37,7 @@ function Details({ history, ...props }) {
         });
     }
 
-    if (name == undefined) history.push({ pathname: "/" });
+    if (name == undefined || !GetDescubiertoByName(name)) history.push({ pathname: "/" });
     window.scrollTo(0, 0);
     LoadPokemon();
   }, [window.location.pathname]);
@@ -88,6 +91,17 @@ function Details({ history, ...props }) {
       setShowModalError(true);
     }
   }
+  
+  function getMyStats(){
+    var myStats = GetStatsByPokemonName(details.name);
+
+    myStats.push({
+      "name": "Capture rate",
+      "base_stat": details.capture_rate
+    })
+
+    return myStats;
+  }
 
   return (
     <div>
@@ -124,17 +138,19 @@ function Details({ history, ...props }) {
                   height={details.height}
                   capture_rate={details.capture_rate}
                   weight={details.weight}
-                  abilities={details.abilities}
+                  abilities={GetAbilitiesByPokemonName(details.name)}
                   gender_rate={details.gender_rate}
-                  habitat={details.habitat}
+                  habitat={(GetMyPokemonByName(details.name) == null)?("-"):(GetMyPokemonByName(details.name).Habitat) }
                 />
               </Col>
 
               <Col xs={12}>
-                <PokeStats stats={details.stats} types={details.types} />
+                {}
+                <PokeStats stats={getMyStats()} types={details.types} />
               </Col>
             </Row>
             <PokeEvolution data={details.evolution} types={details.types} />
+            <PokeCartasFisicas data={details.evolution} types={details.types} />
           </>
         )}
       </Container>

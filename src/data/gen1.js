@@ -27,7 +27,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -57,7 +58,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -87,7 +89,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -117,7 +120,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -147,7 +151,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -177,7 +182,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Pidgeot",
@@ -207,7 +213,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Restaura 3ps.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": "Si"
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Pidgeot",
@@ -237,7 +244,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Cambia de pokemon.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": "Si"
+    "Descubierto": "TRUE",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Pidgeot",
@@ -267,7 +275,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "10% de hacer retroceder al rival.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": "Si"
+    "Descubierto": "vale",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -297,7 +306,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -327,7 +337,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -357,7 +368,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -387,7 +399,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -417,7 +430,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -447,7 +461,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Machamp",
@@ -477,7 +492,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "-5 de prioridad. Falla si es golpeado primero.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Machamp",
@@ -507,7 +523,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Daño=Peso_Rival/50.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Machamp",
@@ -537,7 +554,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "20% adicional de crítico. 80% acc.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -567,7 +585,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -597,7 +616,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -627,7 +647,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -657,7 +678,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -687,7 +709,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -717,7 +740,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Typhlosion",
@@ -747,7 +771,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Daño=(Ps. actuales - 1). Daño en área.",
     "Es_ulti": "Si",
     "Coste_energia": "2",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Typhlosion",
@@ -777,7 +802,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Fisico",
     "Es_ulti": "2x",
     "Coste_energia": "20% adicional de crítico.",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Typhlosion",
@@ -807,7 +833,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "90% acc. Se lanza hasta 6 turnos consecutivos, infilgiendo un daño de 1x, 2x, 4x...",
     "Es_ulti": "Si",
     "Coste_energia": "2",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -837,7 +864,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -867,7 +895,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Electrivire",
@@ -897,7 +926,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "90% acc. 10% de quemar al objetivo.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Electrivire",
@@ -927,7 +957,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "El usuario pierde 1ps. al impactar.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Electrivire",
@@ -957,7 +988,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "El usuario pierde 1ps. al impactar.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -987,7 +1019,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1017,7 +1050,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Scyther",
@@ -1047,7 +1081,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "No puede fallar.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Scyther",
@@ -1077,7 +1112,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Garantiza que el siguiente golpe sea cŕitico.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Scizor",
@@ -1106,8 +1142,9 @@ export const myPokemons = [
     "Potencia_3": "2x",
     "Efecto_del_ataque_3": "90% acc. 20% de hacer retroceder al rival.",
     "Es_ulti": "No",
-    "Coste_energia": "",
-    "Descubierto": ""
+    "Coste_energia": "0",
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Scizor",
@@ -1137,7 +1174,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Aumenta 2 lvls. el ataque del usuario.",
     "Es_ulti": "Si",
     "Coste_energia": "2",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -1167,7 +1205,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1197,7 +1236,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Golurk",
@@ -1227,7 +1267,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Aumenta 2 lvls. la defensa.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Golurk",
@@ -1257,7 +1298,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "50% acc. Confunde al rival.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -1287,7 +1329,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1317,7 +1360,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Dragonite",
@@ -1347,7 +1391,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Aumenta 1 lvl. el ataque y 2 lvl. la velocidad.",
     "Es_ulti": "Si",
     "Coste_energia": "2",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Sudowoodo",
@@ -1377,7 +1422,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Aumenta 2 lvls. la defensa.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Sudowoodo",
@@ -1407,7 +1453,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Aumenta 2 lvls. la defensa.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Sudowoodo",
@@ -1437,7 +1484,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "90% acc. Si el usuario falló algún movimiento en el turno anterior, el daño se duplica.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -1467,7 +1515,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1497,7 +1546,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1527,7 +1577,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1557,7 +1608,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1587,7 +1639,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1617,7 +1670,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Blaziken",
@@ -1647,7 +1701,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Daño=Peso_Rival/50.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Blaziken",
@@ -1677,7 +1732,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "30% acc. si el usuario ha usado todos sus movimientos, pasa a ser un 100% acc.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Blaziken",
@@ -1707,7 +1763,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "No puede fallar.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -1737,7 +1794,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1767,7 +1825,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -1797,7 +1856,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Metagross",
@@ -1827,7 +1887,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Sube 2lvl. el ataque del usuario y lo confunde.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Metagross",
@@ -1857,7 +1918,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Daño en area.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Metagross",
@@ -1887,7 +1949,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Daño en area.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Eldegoss",
@@ -1917,7 +1980,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Reduce 2 lvl. la velocidad de todos los Pokemon que entren del objetivo.",
     "Es_ulti": "Si",
     "Coste_energia": "2",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Eldegoss",
@@ -1947,7 +2011,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Reduce 2 lvl. la velocidad de todos los Pokemon que entren del objetivo.",
     "Es_ulti": "Si",
     "Coste_energia": "2",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Eldegoss",
@@ -1977,7 +2042,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Elimina todos los problemas de estado del resto del equipo.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -2007,7 +2073,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2037,7 +2104,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2067,7 +2135,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2097,7 +2166,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Blastoise",
@@ -2127,7 +2197,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Reduce 1lvl. las defensas y aumenta 2lvl. los ataques del usuario.",
     "Es_ulti": "Si",
     "Coste_energia": "2",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Blastoise",
@@ -2157,7 +2228,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "80% acc. -5 de prioridad. Fuerza al objetivo a cambiar de pokémon.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "",
@@ -2187,7 +2259,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2217,7 +2290,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2247,7 +2321,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2277,7 +2352,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Porygon-Z",
@@ -2307,7 +2383,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "90% acc. Descansa 1 turno.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Porygon-Z",
@@ -2337,7 +2414,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "90% acc. 20% de bajar 1lvl. la defensa especial del objetivo.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Porygon-Z",
@@ -2367,7 +2445,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "90% acc. Descansa 1 turno.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Porygon-Z",
@@ -2397,7 +2476,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "90% acc. 10% de paralizar.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Araquanid",
@@ -2427,7 +2507,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "-5 prioridad. Daño=(2xDaño recibido). Falla si no recibe daño o el daño recibido no es especial.",
     "Es_ulti": "Si",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Araquanid",
@@ -2457,7 +2538,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "90% acc. 10% de congelar al objetivo.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Araquanid",
@@ -2487,7 +2569,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "90% acc. 10% de congelar al objetivo.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Araquanid",
@@ -2517,7 +2600,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "10% de hacer retroceder al rival.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Absol",
@@ -2528,7 +2612,7 @@ export const myPokemons = [
     "Tipo_2": "",
     "Vida": 4,
     "Velocidad": 3,
-    "Nombre_Habilidad": "Presión ",
+    "Nombre_Habilidad": "Presión",
     "Efecto_Habilidad": "El oponente no puede usar el mismo movimiento de forma continua.",
     "Nombre_ataque_1": "Golpe Bajo",
     "Tipo_ataque_1": "Siniestro",
@@ -2547,7 +2631,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Solo acierta si el objetivo va a cambiar al Pokémon. Tiene prioridad absoluta.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": ""
   },
   {
     "Nombre": "Absol",
@@ -2558,7 +2643,7 @@ export const myPokemons = [
     "Tipo_2": "",
     "Vida": 4,
     "Velocidad": 3,
-    "Nombre_Habilidad": "Presión ",
+    "Nombre_Habilidad": "Presión",
     "Efecto_Habilidad": "El oponente no puede usar el mismo movimiento de forma continua.",
     "Nombre_ataque_1": "Golpe Bajo",
     "Tipo_ataque_1": "Siniestro",
@@ -2577,7 +2662,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Aumenta 2lvls. la evasión.",
     "Es_ulti": "No",
     "Coste_energia": "0",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": ""
   },
   {
     "Nombre": "Absol",
@@ -2588,7 +2674,7 @@ export const myPokemons = [
     "Tipo_2": "",
     "Vida": 4,
     "Velocidad": 3,
-    "Nombre_Habilidad": "Presión ",
+    "Nombre_Habilidad": "Presión",
     "Efecto_Habilidad": "El oponente no puede usar el mismo movimiento de forma continua.",
     "Nombre_ataque_1": "Cuchillada",
     "Tipo_ataque_1": "Normal",
@@ -2607,7 +2693,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Solo acierta si el objetivo va a cambiar al Pokémon. Tiene prioridad absoluta.",
     "Es_ulti": "Si",
     "Coste_energia": "1",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2637,7 +2724,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2667,7 +2755,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2697,7 +2786,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2727,7 +2817,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2757,7 +2848,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "",
@@ -2787,7 +2879,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "",
     "Es_ulti": "",
     "Coste_energia": "",
-    "Descubierto": ""
+    "Descubierto": "",
+    "Habitat": ""
   },
   {
     "Nombre": "Togekiss",
@@ -2817,7 +2910,8 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Al final del siguiente turno, restaura la mitad de los ps de tu Pokémon en juego.",
     "Es_ulti": "Si",
     "Coste_energia": "2",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   },
   {
     "Nombre": "Togekiss",
@@ -2847,6 +2941,7 @@ export const myPokemons = [
     "Efecto_del_ataque_3": "Al final del siguiente turno, restaura la mitad de los ps de tu Pokémon en juego.",
     "Es_ulti": "Si",
     "Coste_energia": "2",
-    "Descubierto": ""
+    "Descubierto": "Si",
+    "Habitat": "Ruta 999."
   }
-]
+ ]
