@@ -1,3 +1,5 @@
+import { myPokemons } from "../data/gen1";
+
 export function RemoveAspas(val) {
   if (val != null) return val.replace(/[\\"]/g, "");
 }
@@ -5,6 +7,17 @@ export function RemoveAspas(val) {
 export function GetImageById(id) {
   id = id.toString().padStart(3, "0");
   return `https://assets.pokemon.com/assets/cms2/img/pokedex/detail/${id}.png`;
+}
+
+export function GetDescubiertoByNumPokedex(number) {
+  let resFlag = false;
+  myPokemons.forEach(pokemon => {
+    if (parseInt(pokemon.Num_Pokedex) === parseInt(number)){
+      resFlag = (pokemon.Descubierto !== "");
+    }
+  });
+
+  return resFlag;
 }
 
 export function DetermineGenderRate(gender) {

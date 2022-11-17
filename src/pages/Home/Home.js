@@ -9,11 +9,13 @@ import LoadingCard from "../../components/Loading/LoadingCard";
 import Footer from "../../components/Others/Footer";
 import api from "../../services/api";
 import Colors from "../../styles/Colors";
-import { SavePokemons, VerifyPokemons } from "../../functions/storage";
+import { SavePokemons, VerifyPokemons, deletePokemons } from "../../functions/storage";
+
+import { myPokemons } from "../../data/gen1";
 
 var pokemonsOriginal = [];
 const perPage = 16;
-const limit = 48; //default = 898
+const limit = 898; //default = 898
 var max = 0;
 
 function Home({ history, ...props }) {
@@ -73,7 +75,14 @@ function Home({ history, ...props }) {
   async function LoadPokemons() {
     let pokeList = await api.get(`/pokemon?limit=${limit}`);
     var all = [];
+    var nombres = new Set(myPokemons.map(function(d) { return d.Nombre.toLowerCase(); }));
+    
+
     for (var i = 0; i < pokeList.data.results.length; i++) {
+      if (!(nombres.has(pokeList.data.results[i].name))){
+        continue;
+      }
+
       let pokeDetails = await api.get(
         `/pokemon/${pokeList.data.results[i].name}`
       );
@@ -140,7 +149,7 @@ function Home({ history, ...props }) {
             }
             endMessage={
               <p className="text-light" style={{ textAlign: "center" }}>
-                <b>Yay! You have seen it all</b>
+                <b>No hay Más Pokemon Pichilla. No me da la vida.</b>
               </p>
             }
           >
@@ -153,6 +162,7 @@ function Home({ history, ...props }) {
                       id={item.id}
                       types={item.types}
                       click={true}
+                      number = {item.number}
                     />
                   </Col>
                 );

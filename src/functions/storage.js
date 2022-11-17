@@ -10,3 +10,7 @@ export function VerifyPokemons() {
   var pokemons = localStorage.getItem("pokedex_pokemons");
   return JSON.parse(pokemons);
 }
+
+export function deletePokemons(){
+  localStorage.removeItem("pokedex_pokemons");
+}

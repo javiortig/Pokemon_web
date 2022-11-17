@@ -7,7 +7,7 @@
 #
 
 <p align="center">
-  A fully responsive React application built with React consuming the public PokéApi.
+  Una web app en React que usa la PokéApi, creada para usar en un rol de Pokémon basado en Fate.
 </p>
 
 <p align="center">

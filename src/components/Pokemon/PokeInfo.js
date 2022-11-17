@@ -27,10 +27,10 @@ const PokeInfo = ({
         <p>{Math.round(weight * 10) / 100} kg</p>
       </div>
 
-      <div className="info-item">
+      {/* <div className="info-item">
         <h4>Abilities</h4>
         <p>{abilities != null ? abilities : "-"}</p>
-      </div>
+      </div> */}
 
       <div className="info-item mb-0">
         <h4>Gender</h4>

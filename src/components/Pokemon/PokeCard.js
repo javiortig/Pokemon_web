@@ -2,11 +2,11 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
 import "./styles.css";
-import { GetImageById } from "../../functions/utils";
+import { GetImageById, GetDescubiertoByNumPokedex } from "../../functions/utils";
 
 import pokemon_placeholder from "../../assets/img/pokemon-placeholder.png";
 
-const PokeCard = ({ name, id, types, click }) => {
+const PokeCard = ({ name, id, types, click, number }) => {
   const [error, setError] = useState(false);
 
   useEffect(() => {
@@ -14,7 +14,9 @@ const PokeCard = ({ name, id, types, click }) => {
   }, [id]);
 
   return (
-    <div className="container-card mb-4">
+    <div className="container-card mb-4" style={{minHeight: "390px"}}>
+      {GetDescubiertoByNumPokedex(number) ? (
+        <>
       <div>
         <div className="text-center">
           <h2 className="pokemon-name limit-text my-0">{name}</h2>
@@ -30,6 +32,7 @@ const PokeCard = ({ name, id, types, click }) => {
           {error ? (
             <img alt={name} title={name} src={pokemon_placeholder} />
           ) : (
+
             <img
               onError={(e) => setError(true)}
               className="animation-up-down"
@@ -37,7 +40,8 @@ const PokeCard = ({ name, id, types, click }) => {
               title={name}
               src={GetImageById(id)}
             />
-          )}
+          )
+          }
         </Link>
       </figure>
       <div className="w-100  d-flex justify-content-between">
@@ -53,7 +57,18 @@ const PokeCard = ({ name, id, types, click }) => {
             </div>
           );
         })}
-      </div>
+      </div></>)
+      :
+      (<img
+        onError={(e) => setError(true)}
+        className="animation-up-down"
+        // alt={name}
+        // title={name}
+        src={"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Question_mark_white_icon.svg/1200px-Question_mark_white_icon.svg.png"}
+        width={215}
+        height={215}
+      />)
+      }
     </div>
   );
 };

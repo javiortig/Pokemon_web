@@ -79,6 +79,7 @@ function Details({ history, ...props }) {
         habitat: pokeSpecies.data.habitat?.name,
         stats: poke.stats,
         evolution: pokeEvolution.data.chain,
+        number: poke.id.toString().padStart(3, "0")
       };
 
       setDetails(obj);
@@ -108,6 +109,7 @@ function Details({ history, ...props }) {
                   id={details.id}
                   types={details.types}
                   click={false}
+                  number={details.number}
                 />
               </Col>
 
