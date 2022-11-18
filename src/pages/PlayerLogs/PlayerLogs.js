@@ -15,14 +15,17 @@ import axios from "axios";
 import PokeCartasFisicas from "../../components/Pokemon/PokeCartasFisicas";
 
 import { GetDescubiertoByName, GetMyPokemonByName, GetStatsByPokemonName, GetAbilitiesByPokemonName } from "../../functions/utils";
+import PokeLogCards from "../../components/Pokemon/PokeLogCard";
 
-function PlayerLogs({ history, ...props }) {
+function PlayerLogs() {
+  console.log("Hola");
   return (
     <div>
       <Header></Header>
       <Container fluid className="text-light mb-4">
-        
-
+        <PokeLogCards username={"Aurek"} eventName={"Captura"} pokemon={"Machamp"} ruta={"Ruta 22"}>
+          
+        </PokeLogCards> 
       </Container>
     </div>
   );

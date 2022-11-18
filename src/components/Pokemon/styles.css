@@ -686,9 +686,18 @@
   /* align-self: center; */
 }
 
-/* .texto-carta-fisica{
-  align-self: flex-start;
-} */
+.imagen-log{
+  width: 100px;
+  height: 100px;
+}
+
+.captura-title{
+  color: #6d97f1;
+}
+.muerte-title{
+  color: #c22e28;
+}
+
 
 @media screen and (max-width: 767px) {
   .evolution-item {

@@ -16,7 +16,7 @@ const Header = () => {
           </Link>
         </div>
         <div className="text-left">
-          <Link to="/playerLogs">
+          <Link to="/menu/playerLogs">
             <img title="Go to home" alt="Go to home" src={ball} />
           </Link>
         </div>
