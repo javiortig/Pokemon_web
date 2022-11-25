@@ -15,7 +15,8 @@ function randomLogText(eventName) {
   const captureText = [
     "Asegura que no fue una captura fácil.",
     "¡Utilizó por lo menos 0 pokeballs!",
-    "¡Practicad bien vuestra puntería!"
+    "¡Practicad bien vuestra puntería!",
+    "¡Mejor que te pongas las pilas!"
   ];
   const deadText = [
     "Un minuto de silencio para él.",
@@ -47,6 +48,7 @@ const PokeLogCards = ({
   pokemon,
   ruta
 }) => {
+  console.log("/fotosJugadores/"+username +".jpeg");
   switch (eventName) {
     case "Captura":
       return (
@@ -58,7 +60,7 @@ const PokeLogCards = ({
           </Row>
           <Row>
             <Col md={2}>
-              <img className="imagen-log" src="/logo192.png"></img>
+              <img className="imagen-log" src={"/fotosJugadores/"+username +".jpeg"}></img>
             </Col>
             <Col md={8}>
               <p className="text-center">El jugador {username} ha capturado un {pokemon} en {ruta}. {randomLogText(eventName)}</p>
@@ -73,12 +75,12 @@ const PokeLogCards = ({
         <div className="container-info">
           <Row>
             <Col>
-              <h3 className="text-center muerte-title">¡Captura!</h3>
+              <h3 className="text-center muerte-title">¡Muerte!</h3>
             </Col>
           </Row>
           <Row>
             <Col md={2}>
-              <img className="imagen-log" src="/logo192.png"></img>
+              <img className="imagen-log" src={"/fotosJugadores/"+username +".jpeg"}></img>
             </Col>
             <Col md={8}>
               <p className="text-center">Ha muerto el {pokemon} de {username} mientras ambos estaban
