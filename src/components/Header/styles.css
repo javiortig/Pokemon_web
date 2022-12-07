@@ -9,7 +9,12 @@
   justify-content: space-between;
 }
 
-.miItem{
-  /* display: flex;
-  align-content: space-around; */
+.botonPokedex{
+  margin-left: 40%;
+  margin-right: 35%;
 }
+
+.botonLogs{
+  /* margin-left: 0%; */
+}
+

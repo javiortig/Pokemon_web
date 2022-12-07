@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
 import "./styles.css";
-import { GetImageById, GetDescubiertoByNumPokedex } from "../../functions/utils";
+import { GetImageById, GetDescubiertoByName } from "../../functions/utils";
 
 import pokemon_placeholder from "../../assets/img/pokemon-placeholder.png";
 
@@ -15,7 +15,7 @@ const PokeCard = ({ name, id, types, click, number }) => {
 
   return (
     <div className="container-card mb-4" style={{minHeight: "390px"}}>
-      {GetDescubiertoByNumPokedex(number) ? (
+      {GetDescubiertoByName(name) ? (
         <>
       <div>
         <div className="text-center">

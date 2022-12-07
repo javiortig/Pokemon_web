@@ -3,6 +3,24 @@ import { Container, Row, Col } from "react-bootstrap";
 
 import { DetermineGenderRate } from "../../functions/utils";
 
+import {equiposPlayers} from "../../data/equipos";
+
+import "./styles.css";
+
+function getClassColorFromUserTeam(username){
+  if (username in equiposPlayers){
+    if(equiposPlayers[username] == "Magma"){
+      return "container-team-magma" 
+    }
+    else if(equiposPlayers[username] == "Aqua"){
+      return "container-team-aqua" 
+    }
+  }
+
+  return "";
+}
+
+
 function pickRandomItemFromList(list) {
   return list[Math.floor(Math.random() * list.length)];
 }
@@ -52,10 +70,10 @@ const PokeLogCards = ({
   switch (eventName) {
     case "Captura":
       return (
-        <div className="container-info">
+        <div className={"container-info " + getClassColorFromUserTeam(username)}>
           <Row>
             <Col>
-              <h3 className="text-center captura-title">¡Captura!</h3>
+              <h3 className={"text-center captura-title "}>¡Captura!</h3>
             </Col>
           </Row>
           <Row>
@@ -72,10 +90,10 @@ const PokeLogCards = ({
 
     case "Muerte":
       return (
-        <div className="container-info">
+        <div className={"container-info " + getClassColorFromUserTeam(username)}>
           <Row>
             <Col>
-              <h3 className="text-center muerte-title">¡Muerte!</h3>
+              <h3 className="text-center muerte-title ">¡Muerte!</h3>
             </Col>
           </Row>
           <Row>

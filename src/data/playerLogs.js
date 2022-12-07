@@ -1,7 +1,7 @@
 export const playerLogs =
 [
     {
-        "username": "Cuberta",
+        "username": "Admin",
         "eventName": "Captura",
         "pokemon": "Machamp",
         "ruta": "12"
@@ -13,13 +13,13 @@ export const playerLogs =
         "ruta": "5"
     },
     {
-        "username": "Cuberta",
+        "username": "Admin",
         "eventName": "Muerte",
         "pokemon": "Machamp",
         "ruta": "6"
     },
     {
-        "username": "Punset",
+        "username": "lDiem",
         "eventName": "Captura",
         "pokemon": "Zapdos",
         "ruta": "102"

@@ -17,6 +17,9 @@ import PokeCartasFisicas from "../../components/Pokemon/PokeCartasFisicas";
 import { GetDescubiertoByName, GetMyPokemonByName, GetStatsByPokemonName, GetAbilitiesByPokemonName } from "../../functions/utils";
 import PokeLogCards from "../../components/Pokemon/PokeLogCard";
 import { playerLogs } from "../../data/playerLogs";
+import {getUsername} from "../../functions/utils"
+
+
 
 function PlayerLogs() {
   var logList = []

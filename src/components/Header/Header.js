@@ -10,15 +10,17 @@ const Header = () => {
   return (
     <header className="container-header mb-5">
       <Container fluid>
-        <div className="text-center">
-          <Link to="/home/">
-            <img title="Go to home" alt="Go to home" src={logo} />
-          </Link>
-        </div>
-        <div className="text-left">
-          <Link to="/menu/playerLogs">
-            <img title="Go to logs" alt="Go to logs" src={ball} />
-          </Link>
+        <div>
+          <div className="">
+            <Link className="botonPokedex" to="/home/">
+              <img title="Go to home" alt="Go to home" src={logo} />
+            </Link>
+
+            <Link className="" to="/menu/playerLogs">
+              <img title="Go to logs" alt="Go to logs" src={ball} />
+            </Link>
+          </div>
+
         </div>
       </Container>
     </header>

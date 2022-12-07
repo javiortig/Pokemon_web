@@ -693,12 +693,19 @@
 }
 
 .captura-title{
-  color: #6d97f1;
+  color: #e8f046;
 }
 .muerte-title{
-  color: #c22e28;
+  color: #fd9845;
 }
 
+.container-team-magma{
+  background-color: rgb(141, 13, 13);
+}
+
+.container-team-aqua{
+  background-color: rgb(36, 55, 203);
+}
 
 @media screen and (max-width: 767px) {
   .evolution-item {

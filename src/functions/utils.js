@@ -1,4 +1,6 @@
-import { myPokemons } from "../data/gen1";
+import { myPokemons } from "../data/gen1.js";
+import {pokemonDescubiertos} from "../data/descubiertos.js";
+import { getUsername } from "./storage";
 
 export function RemoveAspas(val) {
   if (val != null) return val.replace(/[\\"]/g, "");
@@ -9,29 +11,44 @@ export function GetImageById(id) {
   return `https://assets.pokemon.com/assets/cms2/img/pokedex/detail/${id}.png`;
 }
 
-export function GetDescubiertoByNumPokedex(number) {
-  let resFlag = false;
+// export function GetDescubiertoByNumPokedex(number) {
+//   let resFlag = false;
 
-  myPokemons.forEach(pokemon => {
-    if (parseInt(pokemon.Num_Pokedex) === parseInt(number)){
-      resFlag = (pokemon.Descubierto !== "");
-    }
-  });
+//   myPokemons.forEach(pokemon => {
+//     if (parseInt(pokemon.Num_Pokedex) === parseInt(number)){
+//       resFlag = (pokemon.Descubierto !== "");
+//     }
+//   });
 
-  return resFlag;
-}
+//   return resFlag;
+// }
 
 export function GetDescubiertoByName(name) {
-  let resFlag = false;
+  let username = getUsername();
 
-  myPokemons.forEach(pokemon => {
-
-    if (pokemon.Nombre.toLowerCase() === name){
-      resFlag = (pokemon.Descubierto !== "");
+  for(let i=0; i< pokemonDescubiertos.length; i++){
+    if (username in pokemonDescubiertos[i] && pokemonDescubiertos[i].Nombre.toLowerCase() === name){
+      if (pokemonDescubiertos[i][username] !== ""){
+        return true;
+      }
     }
-  });
+  }
 
-  return resFlag;
+  return false;;
+}
+
+export function GetRazaDescubierta(name, raza) {
+  let username = getUsername();
+
+  for(let i=0; i< pokemonDescubiertos.length; i++){
+    if (username in pokemonDescubiertos[i] && pokemonDescubiertos[i].Nombre.toLowerCase() === name && pokemonDescubiertos[i].Raza.toLowerCase() == raza){
+      if (pokemonDescubiertos[i][username] !== ""){
+        return true;
+      }
+    }
+  }
+
+  return false;;
 }
 
 export function GetMyPokemonByName(name) {
