@@ -11,13 +11,13 @@ const Header = () => {
     <header className="container-header mb-5">
       <Container fluid>
         <div className="text-center">
-          <Link to="/">
+          <Link to="/home/">
             <img title="Go to home" alt="Go to home" src={logo} />
           </Link>
         </div>
         <div className="text-left">
           <Link to="/menu/playerLogs">
-            <img title="Go to home" alt="Go to home" src={ball} />
+            <img title="Go to logs" alt="Go to logs" src={ball} />
           </Link>
         </div>
       </Container>

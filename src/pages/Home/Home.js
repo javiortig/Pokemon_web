@@ -13,6 +13,8 @@ import { SavePokemons, VerifyPokemons, deletePokemons } from "../../functions/st
 
 import { myPokemons } from "../../data/gen1";
 
+import { getUsername } from "../../functions/storage";
+
 var pokemonsOriginal = [];
 const perPage = 16;
 const limit = 898; //default = 898
@@ -23,6 +25,8 @@ function Home({ history, ...props }) {
 
   const [loading, setLoading] = useState(true);
   const [pokemons, setPokemons] = useState([]);
+
+  console.log("Nombre: " + getUsername());
 
   function HandlerResult(maximum, pokemons) {
     max = maximum;
@@ -40,7 +44,7 @@ function Home({ history, ...props }) {
       return false;
     }
 
-    history.push(`/${query}`);
+    history.push(`/home/${query}`);
     var filterPokemons = pokemonsOriginal.filter((item) => {
       return (
         item.name.includes(query.toLowerCase()) || item.number.includes(query)

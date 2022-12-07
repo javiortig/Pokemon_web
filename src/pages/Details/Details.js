@@ -37,7 +37,7 @@ function Details({ history, ...props }) {
         });
     }
 
-    if (name == undefined || !GetDescubiertoByName(name)) history.push({ pathname: "/" });
+    if (name == undefined || !GetDescubiertoByName(name)) history.push({ pathname: "/home/" });
     window.scrollTo(0, 0);
     LoadPokemon();
   }, [window.location.pathname]);

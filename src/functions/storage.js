@@ -14,3 +14,12 @@ export function VerifyPokemons() {
 export function deletePokemons(){
   localStorage.removeItem("pokedex_pokemons");
 }
+
+export function saveUsername(name){
+  localStorage.setItem("username", name);
+}
+
+export function getUsername() {
+  var username = localStorage.getItem("username");
+  return username;
+}

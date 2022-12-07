@@ -6,7 +6,7 @@ const ModalError = ({ history, show_modal_error, msg }) => {
     <Modal show={show_modal_error} centered>
       <Modal.Body>{msg}</Modal.Body>
       <Modal.Footer>
-        <Button variant="primary" onClick={() => history.push("/")}>
+        <Button variant="primary" onClick={() => history.push("/home/")}>
           Ok
         </Button>
       </Modal.Footer>

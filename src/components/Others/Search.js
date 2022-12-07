@@ -9,7 +9,7 @@ const Search = ({ history, query }) => {
   const [searchQuery, setSeachQuery] = useState(query || "");
 
   useEffect(() => {
-    history.push(`/${searchQuery}`);
+    history.push(`/home/${searchQuery}`);
   }, [searchQuery]);
 
   return (
