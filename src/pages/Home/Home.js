@@ -149,7 +149,9 @@ function Home({ history, ...props }) {
             }
             endMessage={
               <p className="text-light" style={{ textAlign: "center" }}>
-                <b>No hay Más Pokemon Pichilla. No me da la vida.</b>
+                <b>Ve al Noreste en tu pueblo natal y busca entre los arbustos morados.
+                  Allí encontrarás un condensador Shiny.
+                </b>
               </p>
             }
           >
