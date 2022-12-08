@@ -6,6 +6,15 @@ const appStyle = {
   display: 'flex'
 };
 
+const userData = {
+  Victor: "1234",
+  lDiem: "chete123",
+  Lucia: "malaga00",
+  Aurek: "Gengarr",
+  SiO2: "poblato98",
+  Admin: "root"
+}
+
 const formStyle = {
   margin: 'auto',
   padding: '10px',
@@ -24,7 +33,7 @@ const labelStyle = {
 
 const inputStyle = {
   margin: '5px 0 10px 0',
-  padding: '5px', 
+  padding: '5px',
   border: '1px solid #bfbfbf',
   borderRadius: '3px',
   boxSizing: 'border-box',
@@ -37,14 +46,14 @@ const submitStyle = {
   border: '1px solid #efffff',
   borderRadius: '3px',
   background: '#3085d6',
-  width: '100%', 
+  width: '100%',
   fontSize: '15px',
   color: 'white',
   display: 'block'
 };
 
 
-const Field = React.forwardRef(({label, type}, ref) => {
+const Field = React.forwardRef(({ label, type }, ref) => {
   return (
     <div>
       <label style={labelStyle} >{label}</label>
@@ -53,40 +62,66 @@ const Field = React.forwardRef(({label, type}, ref) => {
   );
 });
 
-const Form = ({onSubmit}) => {
+const Form = ({ onSubmit }) => {
   const usernameRef = React.useRef();
   const passwordRef = React.useRef();
+  const [e_flag, setEFlag] = useState(false);
+
   const handleSubmit = e => {
-      e.preventDefault();
-      const data = {
-          username: usernameRef.current.value,
-          password: passwordRef.current.value
-      };
-      onSubmit(data);
+    e.preventDefault();
+    const data = {
+      username: usernameRef.current.value,
+      password: passwordRef.current.value
+    };
+
+    let temp = onSubmit(data);
+    
+    setEFlag(temp);
   };
   return (
     <form style={formStyle} onSubmit={handleSubmit} >
-      <Field ref={usernameRef} label="Username:" type="text" />
-      <Field ref={passwordRef} label="Password:" type="password" />
+      <Field ref={usernameRef} label="Usuario:" type="text" />
+      <Field ref={passwordRef} label="Contraseña:" type="password" />
       <div>
         <button style={submitStyle} type="submit">Submit</button>
+      </div>
+      <div>
+        <p style={{color: 'red', visibility: (e_flag)? 'visible': 'hidden'}}>Usuario y/o contraseña incorrectos</p>
       </div>
     </form>
   );
 };
 
-function Login({ history}) {
-  const handleSubmit = data => {
-    const json = JSON.stringify(data, null, 4);
-    console.log(json);
-    saveUsername(data.username);
-    history.push(`/home/`);
-  };  
+function Login({ history }) {
+  const handleSubmit = (data) => {
+    let e_flag = false;
+    if (data.username in userData) {
+      console.log("username exists");
+      if (userData[data.username] === data.password) {
+        console.log("correct pass");
+        saveUsername(data.username);
+        history.push(`/home/`);
+      }
+      else {
+        console.log("incorrect pass");
+        e_flag = true;
+      }
+    }
+    else {
+      console.log("user does not exist");
+      e_flag = true;
+    }
+    
+      return e_flag;
+  }
+
   return (
     <div style={appStyle}>
       <Form onSubmit={handleSubmit} />
     </div>
   );
-}
+};
+
+
 
 export default Login;
