@@ -12,6 +12,10 @@ const Header = () => {
       <Container fluid>
         <div>
           <div className="">
+            <Link className="" to="/menu/items">
+              <img title="Go to Items" alt="Go to Items" src={ball} />
+            </Link>
+
             <Link className="botonPokedex" to="/home/">
               <img title="Go to home" alt="Go to home" src={logo} />
             </Link>

@@ -66,7 +66,7 @@ const PokeLogCards = ({
   pokemon,
   ruta
 }) => {
-  console.log("/fotosJugadores/"+username +".jpeg");
+  // console.log("/fotosJugadores/"+username +".jpeg");
   switch (eventName) {
     case "Captura":
       return (
