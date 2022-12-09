@@ -706,6 +706,18 @@
 .container-team-aqua{
   background-color: rgb(36, 55, 203);
 }
+.rareza-comun{
+  color: #9b9b9b;
+}
+.rareza-poco-comun{
+  color: #00bedb;
+}
+.rareza-epica{
+  color: #ac00c7;
+}
+.rareza-legendaria{
+  color: #ec6200;
+}
 
 .imagen-objetos{
   background-color: rgb(255, 255, 255);

@@ -5,4 +5,5 @@ export const equiposPlayers = {
     lDiem: "Magma",
     SiO2: "",
     Victor: "",
+    Juan: ""
 }
