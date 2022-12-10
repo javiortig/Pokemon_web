@@ -239,7 +239,7 @@ const PokeLogCards = ({
               <img className="imagen-log" src={"/fotosJugadores/" + username + ".jpeg"}></img>
             </Col>
             <Col className="text-center mb-3">
-              <img className="imagen-log" src={"/vs.png"}></img>
+              <img className="vs-log" src={"/vs.png"}></img>
             </Col>
             <Col className="text-center mb-3">
               <img className="imagen-log" src={"/fotosJugadores/" + pokemon + ".jpeg"}></img>
@@ -269,7 +269,7 @@ const PokeLogCards = ({
               <img className="imagen-log" src={"/fotosJugadores/" + username + ".jpeg"}></img>
             </Col>
             <Col className="text-center mb-3">
-              <img className="imagen-log" src={"/vs.png"}></img>
+              <img className="vs-log" src={"/vs.png"}></img>
             </Col>
             <Col className="text-center mb-3">
               <img className="imagen-log" src={"/fotosJugadores/" + pokemon + ".jpeg"}></img>
