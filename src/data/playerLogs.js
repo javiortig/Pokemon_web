@@ -47,5 +47,23 @@ export const playerLogs =
         "eventName": "Captura Shiny",
         "pokemon": "Porygon-Z",
         "ruta": "Ruta 15"
+    },
+    {
+        "username": "Lucia",
+        "eventName": "Enfrentamiento",
+        "pokemon": "Aurek",
+        "ruta": "Casino de Ciudad Azulona"
+    },
+    {
+        "username": "Lucia",
+        "eventName": "Boss Battle",
+        "pokemon": "Misty",
+        "ruta": "Ciudad Celeste"
+    },
+    {
+        "username": "lDiem",
+        "eventName": "Boss Battle",
+        "pokemon": "Courtney Gears",
+        "ruta": "Silver City"
     }
 ]

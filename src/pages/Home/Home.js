@@ -152,8 +152,8 @@ function Home({ history, ...props }) {
               </div>
             }
             endMessage={
-              <p className="text-light" style={{ textAlign: "center" }}>
-                <b>Ve al Noreste en tu pueblo natal y busca entre los arbustos morados.
+              <p className="text-light" style={{ textAlign: "center", fontSize: "50%" }}>
+                <b>Ve al Noreste en tu pueblo natal, hacia la casa de Lola. Busca entre los arbustos morados de su huerto.
                   Allí encontrarás un condensador Shiny.
                 </b>
               </p>

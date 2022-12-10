@@ -50,6 +50,18 @@ function randomLogText(eventName) {
     "Descansa en paz, tu entrenador intentará no ser malo en los próximos combates.",
     "¡Debéis acordaros de curar a vuestros Pokémon con objetos o en un centro antes de combatir!"
   ];
+  const enfrentamientoText = [
+    "Ha sido una batalla épica.",
+    "¡Es como si hubiesen chocado dos titanes!",
+    "Sin duda no ha sido moco de pavo.",
+    "¿Quién será su próxima víctima?"
+  ];
+  const bossText = [
+    "Ha sido una batalla épica.",
+    "Se ha sentido en toda la región.",
+    "Ha jugado con todo lo que tenía.",
+    "Algunos paisanos tuvieron que huír de los temblores que había."
+  ];
   let res = "";
 
   switch (eventName) {
@@ -71,6 +83,14 @@ function randomLogText(eventName) {
 
     case "Alistamiento":
       res = pickRandomItemFromList(defaultText);
+      break;
+
+    case "Enfrentamiento":
+      res = pickRandomItemFromList(enfrentamientoText);
+      break;
+
+    case "Boss Battle":
+      res = pickRandomItemFromList(bossText);
       break;
 
     default:
@@ -199,6 +219,65 @@ const PokeLogCards = ({
               <p className="text-center">El jugador <b>{username}</b> se ha enrolado en el team <u>{pokemon}</u>.  
               {(pokemon =='Magma')? (<i className="italic-a"> "Expandiremos la tierra, destruiremos los océanos y encontraremos la esfera roja para revivir a Groudon."</i>):
               (<i className="italic-a"> "Expandiremos los océanos, inundaremos los continentes y encontraremos la esfera azul para revivir a Kyogre."</i>)}</p>
+            </Col>
+          </Row>
+        </div>
+      );
+      break;
+
+      case "Enfrentamiento":
+      console.log("/fotosJugadores/" + username + ".jpeg");
+      return (
+        <div className={"container-info " + getClassColorFromUserTeam(username)}>
+          <Row>
+            <Col>
+              <h3 className="text-center enfrentamiento-title "><u>¡Enfrentamiento!</u></h3>
+            </Col>
+          </Row>
+          <Row>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/fotosJugadores/" + username + ".jpeg"}></img>
+            </Col>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/vs.png"}></img>
+            </Col>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/fotosJugadores/" + pokemon + ".jpeg"}></img>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <p className="text-center">El jugador <b>{username}</b> se enfrentó a <b>{pokemon}</b> en un combate, 
+              en el que salió <b>{username}</b> victorioso. {randomLogText(eventName)}</p>
+            </Col>
+          </Row>
+        </div>
+      );
+      break;
+
+      case "Boss Battle":
+      console.log("/fotosJugadores/" + username + ".jpeg");
+      return (
+        <div className={"container-info " + getClassColorFromUserTeam(username)}>
+          <Row>
+            <Col>
+              <h3 className="text-center boss_battle-title "><u>¡Boss Battle!</u></h3>
+            </Col>
+          </Row>
+          <Row>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/fotosJugadores/" + username + ".jpeg"}></img>
+            </Col>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/vs.png"}></img>
+            </Col>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/fotosJugadores/" + pokemon + ".jpeg"}></img>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+            <p className="text-center"><b>{username}</b> ha derrotado al boss <b>{pokemon}</b> en un duro enfrentamiento, {randomLogText(eventName)}</p>
             </Col>
           </Row>
         </div>

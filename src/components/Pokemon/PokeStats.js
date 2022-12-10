@@ -46,11 +46,11 @@ const PokeStats = ({ stats, types }) => {
             <div key={index} className="bar-item">
               <div className="bar">
                 <div
-                  style={{ height: (item.base_stat*200 / 100) }}
+                  style={{ height: Math.max(((item.base_stat- 20)*200 / 100), 5) }}
                   className={`bar-active ${types[0].type.name}`}
                 />
                 <div className="container-label">
-                  <p className="value">{item.base_stat + " %"}</p>
+                  <p className="value">{(item.base_stat- 20) + " %"}</p>
                 </div>
               </div>
               <p className="mb-0 mt-2 text-center label limit-text">
