@@ -2,6 +2,7 @@
   background-color: var(--card_gray);
   color: white;
   padding: 30px 0px;
+  align-content: center;
 }
 
 .miContainer{
@@ -10,11 +11,12 @@
 }
 
 .botonPokedex{
-  margin-left: 34.5%;
-  margin-right: 34%;
+  margin-left: 0%;
+  margin-right: 0%;
 }
 
-.botonLogs{
-  /* margin-left: 0%; */
+.container-padre{
+  align-self: center;
+  align-items: center;
 }
 

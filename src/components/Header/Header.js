@@ -9,9 +9,9 @@ import ball from "../../assets/img/pokeball-white.png";
 const Header = () => {
   return (
     <header className="container-header mb-5">
-      <Container fluid>
-        <div>
-          <div className="">
+      <Container fluid className="">
+        <div className="">
+          <div className="miContainer">
             <Link className="" to="/menu/items">
               <img title="Go to Items" alt="Go to Items" src={ball} />
             </Link>

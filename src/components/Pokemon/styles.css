@@ -693,10 +693,22 @@
 }
 
 .captura-title{
-  color: #e8f046;
+  color: #dae332;
+}
+.captura-shiny-title{
+  color: #e225ff;
 }
 .muerte-title{
   color: #fd9845;
+}
+.inicio-title{
+  color: #00e20b;
+}
+.alistamiento-title{
+  color: #00e20b;
+}
+.italic-a{
+  color: #a5b4a6;
 }
 
 .container-team-magma{

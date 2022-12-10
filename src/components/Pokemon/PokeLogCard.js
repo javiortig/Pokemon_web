@@ -3,17 +3,17 @@ import { Container, Row, Col } from "react-bootstrap";
 
 import { DetermineGenderRate } from "../../functions/utils";
 
-import {equiposPlayers} from "../../data/equipos";
+import { equiposPlayers } from "../../data/equipos";
 
 import "./styles.css";
 
-function getClassColorFromUserTeam(username){
-  if (username in equiposPlayers){
-    if(equiposPlayers[username] == "Magma"){
-      return "container-team-magma" 
+function getClassColorFromUserTeam(username) {
+  if (username in equiposPlayers) {
+    if (equiposPlayers[username] == "Magma") {
+      return "container-team-magma"
     }
-    else if(equiposPlayers[username] == "Aqua"){
-      return "container-team-aqua" 
+    else if (equiposPlayers[username] == "Aqua") {
+      return "container-team-aqua"
     }
   }
 
@@ -30,11 +30,20 @@ function randomLogText(eventName) {
     "Después de eso se fue a tomarse una pipsa con sus mapsas.",
     "Al cabo de un rato se echó una siesta."
   ];
+  const inicioText = [
+    "¡Cuidado, que no os pise los talones!",
+    "Os quiere reventar a todos."
+  ];
   const captureText = [
     "Asegura que no fue una captura fácil.",
     "¡Utilizó por lo menos 0 pokeballs!",
     "¡Practicad bien vuestra puntería!",
     "¡Mejor que te pongas las pilas!"
+  ];
+  const shinyCaptureText = [
+    "Un cabrón con suerte.",
+    "Después de eso se dice que le vieron en el casino de ciudad Azulona.",
+    "Alguien le vió poco después metiéndo todos sus ahorros al rojo en el casino de ciudad Azulona."
   ];
   const deadText = [
     "Un minuto de silencio para él.",
@@ -50,6 +59,18 @@ function randomLogText(eventName) {
 
     case "Muerte":
       res = pickRandomItemFromList(deadText);
+      break;
+
+    case "Inicio":
+      res = pickRandomItemFromList(inicioText);
+      break;
+
+    case "Captura Shiny":
+      res = pickRandomItemFromList(shinyCaptureText);
+      break;
+
+    case "Alistamiento":
+      res = pickRandomItemFromList(defaultText);
       break;
 
     default:
@@ -77,11 +98,13 @@ const PokeLogCards = ({
             </Col>
           </Row>
           <Row>
-            <Col md={2}>
-              <img className="imagen-log" src={"/fotosJugadores/"+username +".jpeg"}></img>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/fotosJugadores/" + username + ".jpeg"}></img>
             </Col>
-            <Col md={8}>
-              <p className="text-center">El jugador {username} ha capturado un {pokemon} en {ruta}. {randomLogText(eventName)}</p>
+          </Row>
+          <Row>
+            <Col>
+              <p className="text-center">El jugador <b>{username}</b> ha capturado un <u>{pokemon}</u> en {ruta}. {randomLogText(eventName)}</p>
             </Col>
           </Row>
         </div>
@@ -97,12 +120,85 @@ const PokeLogCards = ({
             </Col>
           </Row>
           <Row>
-            <Col md={2}>
-              <img className="imagen-log" src={"/fotosJugadores/"+username +".jpeg"}></img>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/fotosJugadores/" + username + ".jpeg"}></img>
             </Col>
-            <Col md={8}>
-              <p className="text-center">Ha muerto el {pokemon} de {username} mientras ambos estaban
+          </Row>
+          <Row>
+            <Col>
+              <p className="text-center">Ha muerto el <u>{pokemon}</u> de <b>{username}</b> mientras ambos estaban
                 en {ruta}. {randomLogText(eventName)}</p>
+            </Col>
+          </Row>
+        </div>
+      );
+      break;
+
+    case "Inicio":
+      console.log("/fotosJugadores/" + username + ".jpeg");
+      return (
+        <div className={"container-info " + getClassColorFromUserTeam(username)}>
+          <Row>
+            <Col>
+              <h3 className="text-center inicio-title ">¡Inicio!</h3>
+            </Col>
+          </Row>
+          <Row>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/fotosJugadores/" + username + ".jpeg"}></img>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <p className="text-center">El jugador <b>{username}</b> se ha unido al mundo Pokémon con un <u>{pokemon}</u>. {randomLogText(eventName)}</p>
+            </Col>
+          </Row>
+        </div>
+      );
+      break;
+
+    case "Captura Shiny":
+      console.log("/fotosJugadores/" + username + ".jpeg");
+      return (
+        <div className={"container-info " + getClassColorFromUserTeam(username)}>
+          <Row>
+            <Col>
+              <h3 className="text-center captura-shiny-title ">¡Captura Shiny!</h3>
+            </Col>
+          </Row>
+          <Row>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/fotosJugadores/" + username + ".jpeg"}></img>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <p className="text-center">El jugador <b>{username}</b> ha capturado un <u>{pokemon} Shiny</u> en {ruta}. {randomLogText(eventName)}</p>
+            </Col>
+          </Row>
+        </div>
+      );
+      break;
+
+      case "Alistamiento":
+      console.log("/fotosJugadores/" + username + ".jpeg");
+      return (
+        <div className={"container-info " + getClassColorFromUserTeam(username)}>
+          <Row>
+            <Col>
+              <h3 className="text-center alistamiento-title ">¡Alistamiento!</h3>
+            </Col>
+          </Row>
+          <Row>
+            <Col className="text-center mb-3">
+              <img className="imagen-log" src={"/fotosJugadores/" + username + ".jpeg"}></img>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <p className="text-center">El jugador <b>{username}</b> se ha enrolado en el team <u>{pokemon}</u>.  
+              {(pokemon =='Magma')? (<i className="italic-a"> "Expandiremos la tierra, destruiremos los océanos y encontraremos la esfera roja para revivir a Groudon."</i>):
+              (<i className="italic-a"> "Expandiremos los océanos, inundaremos los continentes y encontraremos la esfera azul para revivir a Kyogre."</i>)}</p>
             </Col>
           </Row>
         </div>
@@ -112,7 +208,7 @@ const PokeLogCards = ({
     default:
       break;
   }
-  return (<></>)
+  return (<></>);
 
 };
 
