@@ -11,6 +11,8 @@ import api from "../../services/api";
 import Colors from "../../styles/Colors";
 import { SavePokemons, VerifyPokemons, deletePokemons } from "../../functions/storage";
 
+
+
 import { myPokemons } from "../../data/gen1";
 
 import { getUsername } from "../../functions/storage";
