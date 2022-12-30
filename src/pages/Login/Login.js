@@ -7,12 +7,12 @@ const appStyle = {
 };
 
 const userData = {
-  Victor: "1234",
+  Bateman: "yuppie",
   lDiem: "chete123",
-  Lucia: "malaga00",
-  Aurek: "Gengarr",
+  Shiny: "1124",
+  Aurek: "Aurek",
   SiO2: "poblato98",
-  Admin: "root"
+  Admin: "ubuntu"
 }
 
 const formStyle = {
