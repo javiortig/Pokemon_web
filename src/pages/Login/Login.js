@@ -12,8 +12,10 @@ const userData = {
   Shiny: "1124",
   Aurek: "Aurek",
   SiO2: "poblato98",
+  Yelo: "soloparapokemonrol",
+  Cristianofan99: "elbicho",
   Admin: "ubuntu"
-}
+};
 
 const formStyle = {
   margin: 'auto',

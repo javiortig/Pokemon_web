@@ -30,6 +30,7 @@ function Home({ history, ...props }) {
 
   console.log("Nombre: " + getUsername());
 
+
   function HandlerResult(maximum, pokemons) {
     max = maximum;
     setPokemons(pokemons);
@@ -82,7 +83,8 @@ function Home({ history, ...props }) {
     let pokeList = await api.get(`/pokemon?limit=${limit}`);
     var all = [];
     var nombres = new Set(myPokemons.map(function(d) { return d.Nombre.toLowerCase(); }));
-    
+    console.log(nombres);
+    console.log("e2");
 
     for (var i = 0; i < pokeList.data.results.length; i++) {
       if (!(nombres.has(pokeList.data.results[i].name))){
