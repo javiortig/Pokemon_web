@@ -7,7 +7,7 @@
 #
 
 <p align="center">
-  Una web app en React que usa la PokéApi, creada para usar en un rol de Pokémon basado en Fate.
+   Una web app en React que usa la PokéApi, creada para usar en un rol de Pokémon basado en Fate.
 </p>
 
 <p align="center">
