@@ -34,7 +34,7 @@ export const playerLogs =
         "username": "Admin",
         "eventName": "Alistamiento",
         "pokemon": "Magma",
-        "ruta": "Ciudad Azafr\u00e1n"
+        "ruta": "Ciudad Azafr\u00c3\u00a1n"
     },
     {
         "username": "lDiem",
