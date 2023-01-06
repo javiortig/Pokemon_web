@@ -1,69 +1,75 @@
 export const playerLogs =
 [
     {
-        "username": "Admin",
+        "username": "Aurek",
         "eventName": "Inicio",
-        "pokemon": "Torchic",
-        "ruta": "Ruta 1"
+        "pokemon": "Torchic Equilibrado",
+        "ruta": "Laboratorio de Oak"
+    },
+    {
+        "username": "Shiny",
+        "eventName": "Inicio",
+        "pokemon": "Turtwig Equilibrado",
+        "ruta": "Laboratorio de Oak"
+    },
+    {
+        "username": "Patrick",
+        "eventName": "Inicio",
+        "pokemon": "Torchic Shiny",
+        "ruta": "Laboratorio de Oak"
     },
     {
         "username": "Aurek",
         "eventName": "Captura",
-        "pokemon": "Machamp",
-        "ruta": "Ruta 12"
+        "pokemon": "Rattata Pestoso",
+        "ruta": "Bosque Verde"
     },
     {
-        "username": "lDiem",
+        "username": "Shiny",
         "eventName": "Captura",
-        "pokemon": "porygon2",
-        "ruta": "Ruta 5"
+        "pokemon": "Zubat Variado",
+        "ruta": "Bosque Verde"
+    },
+    {
+        "username": "Patrick",
+        "eventName": "Captura",
+        "pokemon": "Metapod Variado",
+        "ruta": "Bosque Verde"
     },
     {
         "username": "Aurek",
+        "eventName": "Captura",
+        "pokemon": "Zubat Variado",
+        "ruta": "Bosque Verde"
+    },
+    {
+        "username": "Shiny",
         "eventName": "Muerte",
-        "pokemon": "Machamp",
-        "ruta": "Ruta 6"
-    },
-    {
-        "username": "Admin",
-        "eventName": "Captura",
-        "pokemon": "Zapdos",
-        "ruta": "Ruta 102"
-    },
-    {
-        "username": "Admin",
-        "eventName": "Alistamiento",
-        "pokemon": "Magma",
-        "ruta": "Ciudad Azafr\u00c3\u00a1n"
+        "pokemon": "Zubat",
+        "ruta": "Bosque Verde"
     },
     {
         "username": "lDiem",
-        "eventName": "Alistamiento",
-        "pokemon": "Aqua",
-        "ruta": "Ciudad Azulona"
+        "eventName": "Inicio",
+        "pokemon": "Torchic Shiny",
+        "ruta": "Laboratorio de Oak"
     },
     {
-        "username": "Aurek",
-        "eventName": "Captura Shiny",
-        "pokemon": "Porygon-Z",
-        "ruta": "Ruta 15"
+        "username": "Yelo",
+        "eventName": "Inicio",
+        "pokemon": "Turtwig Fulminante",
+        "ruta": "Laboratorio de Oak"
     },
     {
-        "username": "Lucia",
-        "eventName": "Enfrentamiento",
-        "pokemon": "Aurek",
-        "ruta": "Casino de Ciudad Azulona"
+        "username": "Cristianofan99",
+        "eventName": "Inicio",
+        "pokemon": "Totodile Fulminante",
+        "ruta": "Laboratorio de Oak"
     },
     {
-        "username": "Lucia",
-        "eventName": "Boss Battle",
-        "pokemon": "Misty",
-        "ruta": "Ciudad Celeste"
-    },
-    {
-        "username": "lDiem",
-        "eventName": "Boss Battle",
-        "pokemon": "Courtney Gears",
-        "ruta": "Silver City"
+        "username": "Chan-Chullo",
+        "eventName": "Inicio",
+        "pokemon": "Torchic Shiny",
+        "ruta": "Laboratorio de Oak"
     }
 ]

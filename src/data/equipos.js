@@ -1,8 +1,8 @@
 export const equiposPlayers = {
-    Admin: "Magma",
+    Admin: "",
     Aurek: "",
     Lucia: "",
-    lDiem: "Aqua",
+    lDiem: "",
     SiO2: "",
     Victor: "",
     Juan: ""

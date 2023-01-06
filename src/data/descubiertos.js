@@ -11,7 +11,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Chansey",
@@ -24,7 +25,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Blissey",
@@ -37,7 +39,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Blissey",
@@ -50,7 +53,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Chinchou",
@@ -63,7 +67,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Chinchou",
@@ -76,7 +81,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Lanturn",
@@ -89,7 +95,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Lanturn",
@@ -102,7 +109,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Cacturne",
@@ -115,7 +123,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Cacturne",
@@ -128,7 +137,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Snorlax",
@@ -141,7 +151,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Snorlax",
@@ -154,7 +165,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -167,7 +179,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -180,7 +193,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -193,7 +207,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Pidgey",
@@ -206,7 +221,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Pidgeotto",
@@ -219,7 +235,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Pidgeot",
@@ -232,7 +249,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Pidgeot",
@@ -245,7 +263,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Pidgeot",
@@ -258,20 +277,22 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Machop",
         "Raza": "Peculiar",
         "Admin": "Si",
-        "Aurek": "",
-        "Lucia": "",
-        "Victor": "",
+        "Aurek": "Si",
+        "Lucia": "Si",
+        "Victor": "Si",
         "lDiem": "",
         "SiO2": "",
         "Juan": "",
-        "Cristianofan99": "",
-        "Yelo": ""
+        "Cristianofan99": "Si",
+        "Yelo": "Si",
+        "Chan-Chullo": "Si"
     },
     {
         "Nombre": "Machop",
@@ -284,7 +305,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Machop",
@@ -297,7 +319,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Machoke",
@@ -310,7 +333,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Machoke",
@@ -323,7 +347,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Machoke",
@@ -336,7 +361,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Machamp",
@@ -349,7 +375,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Machamp",
@@ -362,7 +389,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Machamp",
@@ -375,7 +403,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Cyndaquil",
@@ -388,7 +417,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Cyndaquil",
@@ -401,7 +431,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Cyndaquil",
@@ -414,7 +445,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Quilava",
@@ -427,7 +459,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Quilava",
@@ -440,7 +473,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Quilava",
@@ -453,7 +487,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Typhlosion",
@@ -466,7 +501,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Typhlosion",
@@ -479,7 +515,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Typhlosion",
@@ -492,7 +529,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -505,7 +543,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -518,7 +557,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -531,7 +571,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -544,7 +585,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Electabuzz",
@@ -557,7 +599,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Electabuzz",
@@ -570,7 +613,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Electabuzz",
@@ -583,7 +627,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Electrivire",
@@ -596,7 +641,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Electrivire",
@@ -609,7 +655,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Electrivire",
@@ -622,7 +669,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -635,7 +683,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -648,7 +697,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Scyther",
@@ -661,7 +711,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Scyther",
@@ -674,7 +725,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Scizor",
@@ -687,7 +739,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Scizor",
@@ -700,7 +753,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Golett",
@@ -713,7 +767,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Golett",
@@ -726,7 +781,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Golurk",
@@ -739,7 +795,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Golurk",
@@ -752,7 +809,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Dratini",
@@ -765,7 +823,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Dratini",
@@ -778,7 +837,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Dragonair",
@@ -791,7 +851,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Dragonair",
@@ -804,7 +865,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Dragonite",
@@ -817,7 +879,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Dragonite",
@@ -830,7 +893,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Bonsly",
@@ -843,7 +907,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Bonsly",
@@ -856,7 +921,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Bonsly",
@@ -869,7 +935,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sudowoodo",
@@ -882,7 +949,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sudowoodo",
@@ -895,7 +963,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sudowoodo",
@@ -908,7 +977,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -921,7 +991,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -934,7 +1005,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -947,7 +1019,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -960,7 +1033,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -973,7 +1047,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -986,7 +1061,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -999,7 +1075,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -1012,7 +1089,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -1025,7 +1103,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Metang",
@@ -1038,7 +1117,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Metang",
@@ -1051,7 +1131,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Metang",
@@ -1064,7 +1145,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Metagross",
@@ -1077,7 +1159,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Metagross",
@@ -1090,7 +1173,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Metagross",
@@ -1103,7 +1187,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Gossifleur",
@@ -1116,7 +1201,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Gossifleur",
@@ -1129,7 +1215,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Gossifleur",
@@ -1142,7 +1229,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Eldegoss",
@@ -1155,7 +1243,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Eldegoss",
@@ -1168,7 +1257,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Eldegoss",
@@ -1181,7 +1271,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Squirtle",
@@ -1194,7 +1285,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Squirtle",
@@ -1207,7 +1299,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Wartotle",
@@ -1220,7 +1313,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Wartotle",
@@ -1233,7 +1327,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Blastoise",
@@ -1246,7 +1341,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Blastoise",
@@ -1259,7 +1355,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Porygon",
@@ -1272,7 +1369,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Porygon2",
@@ -1285,7 +1383,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Porygon2",
@@ -1298,7 +1397,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Porygon2",
@@ -1311,7 +1411,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Porygon2",
@@ -1324,7 +1425,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Porygon-Z",
@@ -1337,7 +1439,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Porygon-Z",
@@ -1350,7 +1453,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Porygon-Z",
@@ -1363,7 +1467,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Porygon-Z",
@@ -1376,7 +1481,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Araquanid",
@@ -1389,7 +1495,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Araquanid",
@@ -1402,7 +1509,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Araquanid",
@@ -1415,7 +1523,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Araquanid",
@@ -1428,7 +1537,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Absol",
@@ -1441,7 +1551,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Absol",
@@ -1454,7 +1565,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Absol",
@@ -1467,7 +1579,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Togepi",
@@ -1480,7 +1593,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Togepi",
@@ -1493,7 +1607,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Togepi",
@@ -1506,7 +1621,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Togetic",
@@ -1519,7 +1635,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Togetic",
@@ -1532,7 +1649,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Togetic",
@@ -1545,7 +1663,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Togekiss",
@@ -1558,7 +1677,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Togekiss",
@@ -1571,7 +1691,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Togekiss",
@@ -1584,7 +1705,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Eevee",
@@ -1597,7 +1719,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Eevee",
@@ -1610,7 +1733,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Vaporeon",
@@ -1623,7 +1747,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Vaporeon",
@@ -1636,7 +1761,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Jolteon",
@@ -1649,7 +1775,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Jolteon",
@@ -1662,7 +1789,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Flareon",
@@ -1675,7 +1803,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Flareon",
@@ -1688,7 +1817,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Espeon",
@@ -1701,7 +1831,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Espeon",
@@ -1714,7 +1845,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Umbreon",
@@ -1727,7 +1859,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Umbreon",
@@ -1740,7 +1873,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Leafeon",
@@ -1753,7 +1887,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Leafeon",
@@ -1766,7 +1901,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Glaceon",
@@ -1779,7 +1915,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Glaceon",
@@ -1792,7 +1929,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sylveon",
@@ -1805,7 +1943,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sylveon",
@@ -1818,7 +1957,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Cubone",
@@ -1831,7 +1971,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Cubone",
@@ -1844,7 +1985,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Cubone",
@@ -1857,7 +1999,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Marowak",
@@ -1870,7 +2013,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Marowak",
@@ -1883,7 +2027,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Marowak",
@@ -1896,7 +2041,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Caterpie",
@@ -1904,12 +2050,13 @@ export const pokemonDescubiertos =
         "Admin": "Si",
         "Aurek": "Si",
         "Lucia": "Si",
-        "Victor": "",
-        "lDiem": "",
+        "Victor": "Si",
+        "lDiem": "Si",
         "SiO2": "",
         "Juan": "",
-        "Cristianofan99": "",
-        "Yelo": ""
+        "Cristianofan99": "Si",
+        "Yelo": "Si",
+        "Chan-Chullo": "Si"
     },
     {
         "Nombre": "Caterpie",
@@ -1917,12 +2064,13 @@ export const pokemonDescubiertos =
         "Admin": "Si",
         "Aurek": "Si",
         "Lucia": "Si",
-        "Victor": "",
-        "lDiem": "",
+        "Victor": "Si",
+        "lDiem": "Si",
         "SiO2": "",
         "Juan": "",
-        "Cristianofan99": "",
-        "Yelo": ""
+        "Cristianofan99": "Si",
+        "Yelo": "Si",
+        "Chan-Chullo": "Si"
     },
     {
         "Nombre": "Metapod",
@@ -1930,12 +2078,13 @@ export const pokemonDescubiertos =
         "Admin": "Si",
         "Aurek": "Si",
         "Lucia": "Si",
-        "Victor": "",
-        "lDiem": "",
+        "Victor": "Si",
+        "lDiem": "Si",
         "SiO2": "",
         "Juan": "",
-        "Cristianofan99": "",
-        "Yelo": ""
+        "Cristianofan99": "Si",
+        "Yelo": "Si",
+        "Chan-Chullo": "Si"
     },
     {
         "Nombre": "Metapod",
@@ -1948,7 +2097,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Butterfree",
@@ -1957,11 +2107,12 @@ export const pokemonDescubiertos =
         "Aurek": "",
         "Lucia": "Si",
         "Victor": "",
-        "lDiem": "",
+        "lDiem": "Si",
         "SiO2": "",
         "Juan": "",
-        "Cristianofan99": "",
-        "Yelo": ""
+        "Cristianofan99": "Si",
+        "Yelo": "Si",
+        "Chan-Chullo": "Si"
     },
     {
         "Nombre": "Butterfree",
@@ -1974,7 +2125,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Zubat",
@@ -1987,7 +2139,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Zubat",
@@ -1995,12 +2148,13 @@ export const pokemonDescubiertos =
         "Admin": "Si",
         "Aurek": "Si",
         "Lucia": "Si",
-        "Victor": "",
-        "lDiem": "",
+        "Victor": "Si",
+        "lDiem": "Si",
         "SiO2": "",
         "Juan": "",
-        "Cristianofan99": "",
-        "Yelo": ""
+        "Cristianofan99": "Si",
+        "Yelo": "Si",
+        "Chan-Chullo": "Si"
     },
     {
         "Nombre": "Golbat",
@@ -2013,7 +2167,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Golbat",
@@ -2026,7 +2181,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Crobat",
@@ -2039,7 +2195,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Crobat",
@@ -2052,7 +2209,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Nidoran-M",
@@ -2065,7 +2223,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Nidoran-F",
@@ -2078,7 +2237,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Nidorino",
@@ -2091,7 +2251,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Nidorina",
@@ -2104,7 +2265,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Nidoking",
@@ -2117,7 +2279,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Nidoqueen",
@@ -2130,7 +2293,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Gastly",
@@ -2143,7 +2307,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Gastly",
@@ -2156,7 +2321,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Haunter",
@@ -2169,7 +2335,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Haunter",
@@ -2182,7 +2349,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Gengar",
@@ -2195,7 +2363,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Gengar",
@@ -2208,7 +2377,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Smoochum",
@@ -2221,7 +2391,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Smoochum",
@@ -2234,7 +2405,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Jynx",
@@ -2247,7 +2419,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Jynx",
@@ -2260,7 +2433,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Snorunt",
@@ -2273,7 +2447,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Snorunt",
@@ -2286,7 +2461,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Glalie",
@@ -2299,7 +2475,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Glalie",
@@ -2312,7 +2489,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Frostlass",
@@ -2325,7 +2503,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Frostlass",
@@ -2338,7 +2517,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Rattata",
@@ -2351,7 +2531,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Rattata",
@@ -2364,7 +2545,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Rattata",
@@ -2377,7 +2559,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Raticate",
@@ -2390,7 +2573,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Raticate",
@@ -2403,7 +2587,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Raticate",
@@ -2416,7 +2601,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -2429,7 +2615,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Bagon",
@@ -2442,7 +2629,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Bagon",
@@ -2455,7 +2643,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Shelgon",
@@ -2468,7 +2657,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Shelgon",
@@ -2481,7 +2671,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Salamence",
@@ -2494,7 +2685,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Salamence",
@@ -2507,7 +2699,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Aron",
@@ -2520,7 +2713,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Aron",
@@ -2533,7 +2727,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Lairon",
@@ -2546,7 +2741,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Lairon",
@@ -2559,7 +2755,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Aggron",
@@ -2572,7 +2769,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Aggron",
@@ -2585,7 +2783,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Geodude",
@@ -2598,7 +2797,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Geodude",
@@ -2611,7 +2811,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Geodude",
@@ -2624,7 +2825,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Geodude",
@@ -2637,7 +2839,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Graveler",
@@ -2650,7 +2853,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Graveler",
@@ -2663,7 +2867,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Graveler",
@@ -2676,7 +2881,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Graveler",
@@ -2689,7 +2895,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Golem",
@@ -2702,7 +2909,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Golem",
@@ -2715,7 +2923,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Golem",
@@ -2728,7 +2937,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Golem",
@@ -2741,7 +2951,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Mimikyu",
@@ -2754,7 +2965,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Mimikyu",
@@ -2767,7 +2979,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -2780,7 +2993,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Zorua",
@@ -2793,7 +3007,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Zorua",
@@ -2806,7 +3021,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Zoroark",
@@ -2819,7 +3035,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Zoroark",
@@ -2832,7 +3049,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -2845,7 +3063,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -2858,7 +3077,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -2871,7 +3091,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Weedle",
@@ -2884,7 +3105,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Weedle",
@@ -2897,7 +3119,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Weedle",
@@ -2910,7 +3133,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Kakuna",
@@ -2923,7 +3147,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Kakuna",
@@ -2936,7 +3161,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Kakuna",
@@ -2949,7 +3175,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "beedrill",
@@ -2962,7 +3189,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "beedrill",
@@ -2975,7 +3203,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "beedrill",
@@ -2988,7 +3217,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Koffing",
@@ -3001,7 +3231,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Koffing",
@@ -3014,7 +3245,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Weezing",
@@ -3027,7 +3259,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Weezing",
@@ -3040,7 +3273,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -3053,7 +3287,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -3066,7 +3301,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Mr. Mine",
@@ -3079,7 +3315,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Mr. Mine",
@@ -3092,7 +3329,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Mr. Mine",
@@ -3105,7 +3343,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Kricketot",
@@ -3118,7 +3357,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Kricketot",
@@ -3131,7 +3371,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "kriketune",
@@ -3144,7 +3385,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "kriketune",
@@ -3157,7 +3399,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Luvdisc",
@@ -3170,7 +3413,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Luvdisc",
@@ -3183,7 +3427,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Goldeen",
@@ -3196,7 +3441,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Goldeen",
@@ -3209,7 +3455,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Goldeen",
@@ -3222,7 +3469,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Seaking",
@@ -3235,7 +3483,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Seaking",
@@ -3248,7 +3497,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Seaking",
@@ -3261,7 +3511,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Pachirisu",
@@ -3274,7 +3525,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Pachirisu",
@@ -3287,7 +3539,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ledyba",
@@ -3300,7 +3553,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ledyba",
@@ -3313,7 +3567,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ledyba",
@@ -3326,7 +3581,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ledian",
@@ -3339,7 +3595,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ledian",
@@ -3352,7 +3609,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ledian",
@@ -3365,7 +3623,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -3378,7 +3637,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Qwilfish",
@@ -3391,7 +3651,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Qwilfish",
@@ -3404,7 +3665,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Snover",
@@ -3417,7 +3679,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Snover",
@@ -3430,7 +3693,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Abomasnow",
@@ -3443,7 +3707,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Abomasnow",
@@ -3456,7 +3721,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -3469,7 +3735,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Turtwig",
@@ -3482,7 +3749,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Turtwig",
@@ -3495,7 +3763,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Turtwig",
@@ -3508,7 +3777,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Grotle",
@@ -3521,7 +3791,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Grotle",
@@ -3534,7 +3805,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Grotle",
@@ -3547,7 +3819,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Torterra",
@@ -3560,7 +3833,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Torterra",
@@ -3573,7 +3847,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Torterra",
@@ -3586,7 +3861,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Totodile",
@@ -3599,7 +3875,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Totodile",
@@ -3612,7 +3889,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Totodile",
@@ -3625,7 +3903,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Croconaw",
@@ -3638,7 +3917,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Croconaw",
@@ -3651,7 +3931,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Croconaw",
@@ -3664,7 +3945,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Feraligatr",
@@ -3677,7 +3959,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Feraligatr",
@@ -3690,7 +3973,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Feraligatr",
@@ -3703,7 +3987,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Torchic",
@@ -3716,7 +4001,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Torchic",
@@ -3729,7 +4015,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Torchic",
@@ -3742,7 +4029,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Combusken",
@@ -3755,7 +4043,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Combusken",
@@ -3768,7 +4057,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Combusken",
@@ -3781,7 +4071,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Blaziken",
@@ -3794,7 +4085,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Blaziken",
@@ -3807,7 +4099,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Blaziken",
@@ -3820,7 +4113,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -3833,7 +4127,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sableye",
@@ -3846,7 +4141,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sableye",
@@ -3859,7 +4155,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Mawile",
@@ -3872,7 +4169,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Mawile",
@@ -3885,7 +4183,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sunkern",
@@ -3898,7 +4197,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sunkern",
@@ -3911,7 +4211,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sunflora",
@@ -3924,7 +4225,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Sunflora",
@@ -3937,7 +4239,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -3950,7 +4253,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Carnivire",
@@ -3963,7 +4267,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Carnivire",
@@ -3976,7 +4281,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Carnivire",
@@ -3989,7 +4295,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Vulpix",
@@ -4002,7 +4309,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Vulpix",
@@ -4015,7 +4323,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Vulpix",
@@ -4028,7 +4337,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ninetales",
@@ -4041,7 +4351,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ninetales",
@@ -4054,7 +4365,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ninetales",
@@ -4067,7 +4379,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ponyta",
@@ -4080,7 +4393,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Ponyta",
@@ -4093,7 +4407,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Rapidash",
@@ -4106,7 +4421,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Rapidash",
@@ -4119,7 +4435,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Rapidash",
@@ -4132,7 +4449,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Magnemite",
@@ -4145,7 +4463,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Magnemite",
@@ -4158,7 +4477,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Magnemite",
@@ -4171,7 +4491,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Magneton",
@@ -4184,7 +4505,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Magneton",
@@ -4197,7 +4519,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Magneton",
@@ -4210,7 +4533,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Magnezone",
@@ -4223,7 +4547,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Magnezone",
@@ -4236,7 +4561,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Magnezone",
@@ -4249,7 +4575,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -4262,7 +4589,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Articuno",
@@ -4275,7 +4603,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Zapdos",
@@ -4288,7 +4617,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Moltres",
@@ -4301,7 +4631,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -4314,7 +4645,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -4327,7 +4659,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Baltoy",
@@ -4340,7 +4673,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Baltoy",
@@ -4353,7 +4687,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Claydol",
@@ -4366,7 +4701,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Claydol",
@@ -4379,7 +4715,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "",
@@ -4392,7 +4729,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Houndour",
@@ -4405,7 +4743,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Houndour",
@@ -4418,7 +4757,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Houndoom",
@@ -4431,7 +4771,8 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     },
     {
         "Nombre": "Houndoom",
@@ -4444,6 +4785,7 @@ export const pokemonDescubiertos =
         "SiO2": "",
         "Juan": "",
         "Cristianofan99": "",
-        "Yelo": ""
+        "Yelo": "",
+        "Chan-Chullo": ""
     }
 ]
