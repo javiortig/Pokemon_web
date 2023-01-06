@@ -27,13 +27,19 @@ export const playerLogs =
     {
         "username": "Shiny",
         "eventName": "Captura",
-        "pokemon": "Zubat Variado",
+        "pokemon": "Zubat Perspicaz",
         "ruta": "Bosque Verde"
     },
     {
         "username": "Patrick",
         "eventName": "Captura",
         "pokemon": "Metapod Variado",
+        "ruta": "Bosque Verde"
+    },
+    {
+        "username": "Shiny",
+        "eventName": "Captura",
+        "pokemon": "Zubat Perspicaz",
         "ruta": "Bosque Verde"
     },
     {
