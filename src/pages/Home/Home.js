@@ -60,7 +60,8 @@ function Home({ history, ...props }) {
 
   useEffect(() => {
     setLoading(true);
-    var listLocal = VerifyPokemons();
+    // var listLocal = VerifyPokemons();
+    var listLocal = null;
     if (listLocal == null) {
       LoadPokemons();
       return false;
