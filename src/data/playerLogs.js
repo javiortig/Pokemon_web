@@ -77,5 +77,17 @@ export const playerLogs =
         "eventName": "Inicio",
         "pokemon": "Torchic Shiny",
         "ruta": "Laboratorio de Oak"
+    },
+    {
+        "username": "Aurek",
+        "eventName": "Captura",
+        "pokemon": "Caterpie Flexible",
+        "ruta": "Ruta 3"
+    },
+    {
+        "username": "Aurek",
+        "eventName": "Muerte",
+        "pokemon": "Torchic Equilibrado",
+        "ruta": "Ruta 3"
     }
 ]
