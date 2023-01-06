@@ -60,8 +60,8 @@ function Home({ history, ...props }) {
 
   useEffect(() => {
     setLoading(true);
-    var listLocal = VerifyPokemons();
-    // var listLocal = null; //forzar carga, comentar ariba descomentar este
+    // var listLocal = VerifyPokemons();
+    var listLocal = null; //forzar carga, comentar ariba descomentar este
     if (listLocal == null) {
       LoadPokemons();
       return false;
