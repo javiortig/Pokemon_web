@@ -94,7 +94,7 @@ function News() {
                     </div>
                     <div className="rotate-img">
                       <img
-                        src="/news_images/fumaos.jpg"
+                        src="/news_images/assets/images/dashboard/home_1.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -130,7 +130,7 @@ function News() {
                     </div>
                     <div className="rotate-img">
                       <img
-                        src="/news_images/silver_city.jpg"
+                        src="/news_images/assets/images/dashboard/home_3.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -170,7 +170,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/cilindros.jpg"
+                            src="/news_images/assets/images/dashboard/home_4.jpg"
                             alt="thumb"
                             className="img-fluid"
                           />
@@ -201,7 +201,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/articuno.jpg"
+                            src="/news_images/assets/images/dashboard/home_5.jpg"
                             alt="thumb"
                             className="img-fluid"
                           />
@@ -232,7 +232,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/montanero.jpg"
+                            src="/news_images/assets/images/dashboard/home_6.jpg"
                             alt="thumb"
                             className="img-fluid"
                           />
