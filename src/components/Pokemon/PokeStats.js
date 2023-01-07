@@ -42,11 +42,14 @@ const PokeStats = ({ stats, types }) => {
           );
         }
         else if (item.name == "Capture rate"){
+          console.log("Capture Rate:");
+          console.log(item.base_stat- 20);
           return (
             <div key={index} className="bar-item">
               <div className="bar">
                 <div
-                  style={{ height: Math.max(((item.base_stat- 20)*200 / 100), 5) }}
+                  style={{ height: Math.max(((item.base_stat- 20)*200 / 100), 2) }}
+                  //style={{ height: ((item.base_stat- 20) < 0) }}
                   className={`bar-active ${types[0].type.name}`}
                 />
                 <div className="container-label">
