@@ -7,7 +7,7 @@ const appStyle = {
 };
 
 const userData = {
-  Bateman: "yuppie",
+  Patrick: "yuppie",
   lDiem: "chete123",
   Shiny: "1124",
   Aurek: "Aurek",

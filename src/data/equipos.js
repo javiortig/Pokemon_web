@@ -1,9 +1,10 @@
 export const equiposPlayers = {
-    Admin: "",
-    Aurek: "",
-    Lucia: "",
-    lDiem: "",
-    SiO2: "",
-    Victor: "",
-    Juan: ""
-}
+  Patrick: "",
+  lDiem: "",
+  Shiny: "",
+  Aurek: "",
+  SiO2: "",
+  Yelo: "",
+  Cristianofan99: "",
+  Admin: ""
+}   // "", "Magma" o "Aqua"

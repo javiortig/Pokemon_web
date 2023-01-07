@@ -3441,7 +3441,7 @@ export const myPokemons = [
     "SUMA": ""
   },
   {
-    "Nombre": "Wartotle",
+    "Nombre": "Wartortle",
     "Raza": "Acuática",
     "Num_rutas": "",
     "Num_Pokedex": 8,
@@ -3478,7 +3478,7 @@ export const myPokemons = [
     "SUMA": ""
   },
   {
-    "Nombre": "Wartotle",
+    "Nombre": "Wartortle",
     "Raza": "Rara",
     "Num_rutas": "",
     "Num_Pokedex": 8,

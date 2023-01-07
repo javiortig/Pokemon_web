@@ -44,16 +44,16 @@ const PokeStats = ({ stats, types }) => {
         else if (item.name == "Capture rate"){
           console.log("Capture Rate:");
           console.log(item.base_stat- 20);
+          let myCaptureRate = item.base_stat - 30;
           return (
             <div key={index} className="bar-item">
               <div className="bar">
                 <div
-                  style={{ height: Math.max(((item.base_stat- 20)*200 / 100), 2) }}
-                  //style={{ height: ((item.base_stat- 20) < 0) }}
+                  style={{ height: Math.max(((myCaptureRate)*200 / 255), 0) }}
                   className={`bar-active ${types[0].type.name}`}
                 />
                 <div className="container-label">
-                  <p className="value">{(item.base_stat- 20) + " %"}</p>
+                  <p className="value">{Math.round(myCaptureRate * 100 / 255) + " %"}</p>
                 </div>
               </div>
               <p className="mb-0 mt-2 text-center label limit-text">
