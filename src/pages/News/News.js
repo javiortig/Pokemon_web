@@ -62,8 +62,7 @@ function News() {
                   src="/news_images/Ciudad_Celeste_Tienda_Cerrada.jpg"
                   alt="banner"
                   className="img-fluid"
-                  width={690}
-                  height={390}
+                  style={{width: 690, height: 390}}
 
                 />
                 <div className="banner-content">
@@ -100,8 +99,7 @@ function News() {
                         src="/news_images/fumaos.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
-                        width={190}
-                        height={140}
+                        style={{width: 190, height: 140}}
                       />
                     </div>
                   </div>
@@ -120,8 +118,7 @@ function News() {
                         src="/news_images/robots.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
-                        width={190}
-                        height={140}
+                        style={{width: 190, height: 140}}
                       />
                     </div>
                   </div>
@@ -140,8 +137,7 @@ function News() {
                         src="/news_images/silver_city.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
-                        width={190}
-                        height={140}
+                        style={{width: 190, height: 140}}
                       />
                     </div>
                   </div>
@@ -182,8 +178,7 @@ function News() {
                             src="/news_images/cilindros.jpg"
                             alt="thumb"
                             className="img-fluid"
-                            width={196}
-                            height={136}
+                            style={{width: 196, height: 136}}
                           />
                         </div>
                         <div className="badge-positioned">
@@ -215,8 +210,6 @@ function News() {
                             src="/news_images/articuno.jpg"
                             alt="thumb"
                             className="img-fluid"
-                            width={196}
-                            height={136}
                             style={{width: 196, height: 136}}
                           />
                         </div>
@@ -249,8 +242,7 @@ function News() {
                             src="/news_images/montanero.jpg"
                             alt="thumb"
                             className="img-fluid"
-                            width={196}
-                            height={136}
+                            style={{width: 196, height: 136}}
                           />
                         </div>
                         <div className="badge-positioned">
