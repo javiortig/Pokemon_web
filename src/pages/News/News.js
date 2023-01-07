@@ -41,10 +41,10 @@ function News() {
           <div className="d-lg-flex align-items-center justify-content-between">
             <div className="d-flex align-items-center">
               <span className="badge badge-dark mr-3">Kanto News</span>
-              <p className="mb-0">
+              {/* <p className="mb-0">
                 Lorem Ipsum has been the industry's standard dummy text ever
                 since the 1500s.
-              </p>
+              </p> */}
             </div>
             <div className="d-flex">
               <span className="mr-3 text-danger">Domingo, 7 Enero, 2023</span>
@@ -62,6 +62,9 @@ function News() {
                   src="/news_images/Ciudad_Celeste_Tienda_Cerrada.jpg"
                   alt="banner"
                   className="img-fluid"
+                  width={690}
+                  height={390}
+
                 />
                 <div className="banner-content">
                   <div className="badge badge-danger fs-12 font-weight-bold mb-3">
@@ -94,9 +97,11 @@ function News() {
                     </div>
                     <div className="rotate-img">
                       <img
-                        src="/news_images/assets/images/dashboard/home_1.jpg"
+                        src="/news_images/fumaos.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
+                        width={190}
+                        height={140}
                       />
                     </div>
                   </div>
@@ -112,9 +117,11 @@ function News() {
                     </div>
                     <div className="rotate-img">
                       <img
-                        src="/news_images/assets/images/dashboard/home_2.jpg"
+                        src="/news_images/robots.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
+                        width={190}
+                        height={140}
                       />
                     </div>
                   </div>
@@ -130,9 +137,11 @@ function News() {
                     </div>
                     <div className="rotate-img">
                       <img
-                        src="/news_images/assets/images/dashboard/home_3.jpg"
+                        src="/news_images/silver_city.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
+                        width={190}
+                        height={140}
                       />
                     </div>
                   </div>
@@ -170,9 +179,11 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/assets/images/dashboard/home_4.jpg"
+                            src="/news_images/cilindros.jpg"
                             alt="thumb"
                             className="img-fluid"
+                            width={196}
+                            height={136}
                           />
                         </div>
                         <div className="badge-positioned">
@@ -201,9 +212,11 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/assets/images/dashboard/home_5.jpg"
+                            src="/news_images/articuno.jpg"
                             alt="thumb"
                             className="img-fluid"
+                            width={196}
+                            height={136}
                           />
                         </div>
                         <div className="badge-positioned">
@@ -232,9 +245,11 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/assets/images/dashboard/home_6.jpg"
+                            src="/news_images/montanero.jpg"
                             alt="thumb"
                             className="img-fluid"
+                            width={196}
+                            height={136}
                           />
                         </div>
                         <div className="badge-positioned">
