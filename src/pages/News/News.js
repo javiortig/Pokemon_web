@@ -73,7 +73,7 @@ function News() {
                     nuevo aviso debido a la repentina desaparición de su dueño.
                   </h3>
                   <div className="fs-12">
-                    <span className="mr-2">Photo </span>10 Minutes ago
+                    <span className="mr-2">Foto </span>Hace 2 días
                   </div>
                 </div>
               </div>
@@ -81,15 +81,15 @@ function News() {
             <div className="col-xl-4 stretch-card grid-margin">
               <div className="card bg-dark text-white">
                 <div className="card-body">
-                  <h2 className="noticias">Latest news</h2>
+                  <h2 className="noticias">Últimas noticias</h2>
 
                   <div
                     className="d-flex border-bottom-blue pt-3 pb-4 align-items-center justify-content-between"
                   >
                     <div className="pr-3">
-                      <h5 className="noticias">Virus Kills Member Of Advising Iran’s Supreme</h5>
+                      <h5 className="noticias">Subida del consumo de drogas en la población</h5>
                       <div className="fs-12 noticias">
-                        <span className="mr-2 noticias">Photo </span>10 Minutes ago
+                        <span className="mr-2 noticias">Foto </span>Hace 2 días
                       </div>
                     </div>
                     <div className="rotate-img">
@@ -105,9 +105,9 @@ function News() {
                     className="d-flex border-bottom-blue pb-4 pt-4 align-items-center justify-content-between"
                   >
                     <div className="pr-3">
-                      <h5 className="noticias">Virus Kills Member Of Advising Iran’s Supreme</h5>
+                      <h5 className="noticias">La población de robots aumenta en la región, inquietando a la población biológica</h5>
                       <div className="fs-12 noticias">
-                        <span className="mr-2 noticias">Photo </span>10 Minutes ago
+                        <span className="mr-2 noticias">Fotos </span>Hace 1 semana
                       </div>
                     </div>
                     <div className="rotate-img">
@@ -177,22 +177,21 @@ function News() {
                         </div>
                         <div className="badge-positioned">
                           <span className="badge badge-danger font-weight-bold"
-                          >Kanto News</span
+                          >Megacorp News</span
                           >
                         </div>
                       </div>
                     </div>
                     <div className="col-sm-8  grid-margin">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        South Korea’s Moon Jae-in sworn in vowing to address
-                        North
+                        Subida de precios en los condensadores Pokémon
                       </h2>
                       <div className="fs-13 mb-2 noticias">
-                        <span className="mr-2 noticias">Photo </span>10 Minutes ago
+                        <span className="mr-2 noticias">Foto </span>Hace 7 horas
                       </div>
                       <p className="mb-0 noticias">
-                        Lorem Ipsum has been the industry's standard dummy
-                        text ever since the 1500s, when an
+                        La escasez de material científico y de especialistas ha provocado
+                        una alteración en los precios de esta necesaria tecnología.
                       </p>
                     </div>
                   </div>
