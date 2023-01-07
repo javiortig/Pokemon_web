@@ -23,6 +23,7 @@ import {getUsername} from "../../functions/utils"
 
 function PlayerLogs() {
   var logList = []
+  playerLogs.reverse();
   playerLogs.forEach(element => {
     logList.push(
     <Container fluid className="text-light mb-4">

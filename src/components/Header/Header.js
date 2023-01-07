@@ -19,6 +19,7 @@ const Header = () => {
         <a id="map" className="menu-item" href="/menu/map">Mapa</a>
         <a id="items" className="menu-item" href="/menu/items">Items</a>
         <a id="logs" className="menu-item" href="/menu/playerLogs">Registro</a>
+        {/* <a id="News" className="menu-item" href="/menu/news">Noticias</a> */}
       </Menu>
       <header className="container-header mb-5">
         <Container fluid className="miContainer">

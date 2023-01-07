@@ -75,8 +75,8 @@ export const playerLogs =
     {
         "username": "Chan-Chullo",
         "eventName": "Inicio",
-        "pokemon": "Torchic Shiny",
-        "ruta": "Laboratorio de Oak"
+        "pokemon": "Torchic",
+        "ruta": "Ciudad Verde, bazar de Chan"
     },
     {
         "username": "Aurek",

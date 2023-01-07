@@ -28,7 +28,8 @@ function pickRandomItemFromList(list) {
 function randomLogText(eventName) {
   const defaultText = [
     "Después de eso se fue a tomarse una pipsa con sus mapsas.",
-    "Al cabo de un rato se echó una siesta."
+    "Al cabo de un rato se echó una siesta.",
+    "Al rato lo han visto echándose un cigarro en el bar."
   ];
   const inicioText = [
     "¡Cuidado, que no os pise los talones!",
@@ -38,7 +39,8 @@ function randomLogText(eventName) {
     "Asegura que no fue una captura fácil.",
     "¡Utilizó por lo menos 0 pokeballs!",
     "¡Practicad bien vuestra puntería!",
-    "¡Mejor que te pongas las pilas!"
+    "¡Mejor que te pongas las pilas!",
+    "Acordaros de activar vuestros condensadores antes de capturar."
   ];
   const shinyCaptureText = [
     "Un cabrón con suerte.",
@@ -48,7 +50,9 @@ function randomLogText(eventName) {
   const deadText = [
     "Un minuto de silencio para él.",
     "Descansa en paz, tu entrenador intentará no ser malo en los próximos combates.",
-    "¡Debéis acordaros de curar a vuestros Pokémon con objetos o en un centro antes de combatir!"
+    "¡Debéis acordaros de curar a vuestros Pokémon con objetos o en un centro antes de combatir!",
+    "Al menos una persona asistió al entierro.",
+    "El profesor no estaría orgulloso de esta hazaña."
   ];
   const enfrentamientoText = [
     "Ha sido una batalla épica.",
