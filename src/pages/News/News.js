@@ -217,6 +217,7 @@ function News() {
                             className="img-fluid"
                             width={196}
                             height={136}
+                            style={{width: 196, height: 136}}
                           />
                         </div>
                         <div className="badge-positioned">
