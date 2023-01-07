@@ -123,9 +123,9 @@ function News() {
                     className="d-flex pt-4 align-items-center justify-content-between"
                   >
                     <div className="pr-3">
-                      <h5 className="noticias">Virus Kills Member Of Advising Iran’s Supreme</h5>
+                      <h5 className="noticias">La ciudad de Obani aumenta su contaminación un 16%.</h5>
                       <div className="fs-12 noticias">
-                        <span className="mr-2 noticias">Photo </span>10 Minutes ago
+                        <span className="mr-2 noticias">Foto </span>Hace 2 semanas
                       </div>
                     </div>
                     <div className="rotate-img">
@@ -215,14 +215,14 @@ function News() {
                     </div>
                     <div className="col-sm-8  grid-margin">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        No charges over 2017 Conservative battle bus cases
+                        Avistamiento de un pájaro legendario
                       </h2>
                       <div className="fs-13 mb-2 noticias">
-                        <span className="mr-2 noticias">Photo </span>10 Minutes ago
+                        <span className="mr-2 noticias">Foto </span>Hace 4 días
                       </div>
                       <p className="mb-0 noticias">
-                        Lorem Ipsum has been the industry's standard dummy
-                        text ever since the 1500s, when an
+                        El ave legendaria Articuno ha sido vista en la ruta 3, provocando 
+                        una estela de granizo por su paso.
                       </p>
                     </div>
                   </div>
@@ -246,14 +246,15 @@ function News() {
                     </div>
                     <div className="col-sm-8">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        Kaine: Trump Jr. may have committed treason
+                        Lobsa, un trabajador humidle
                       </h2>
                       <div className="fs-13 mb-2 noticias">
-                        <span className="mr-2 noticias">Photo </span>10 Minutes ago
+                        <span className="mr-2 noticias">Foto </span>Hace 9 días
                       </div>
                       <p className="mb-0 noticias">
-                        Lorem Ipsum has been the industry's standard dummy
-                        text ever since the 1500s, when an
+                        Don Lobsa, de 64 años, lleva trabajando desde que tiene memoria en la tienda
+                        subterránea del Monte Moon. Se queja de que últimamente unos perros vienen a 
+                        molestarlo durante la noche.
                       </p>
                     </div>
                   </div>
