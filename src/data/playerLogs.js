@@ -89,5 +89,29 @@ export const playerLogs =
         "eventName": "Muerte",
         "pokemon": "Torchic Equilibrado",
         "ruta": "Ruta 3"
+    },
+    {
+        "username": "Shiny",
+        "eventName": "Muerte",
+        "pokemon": "Turtwig Equilibrado",
+        "ruta": "Mt. Moon"
+    },
+    {
+        "username": "Shiny",
+        "eventName": "Captura",
+        "pokemon": "Sableye Bromista",
+        "ruta": "Mt. Moon"
+    },
+    {
+        "username": "Aurek",
+        "eventName": "Captura",
+        "pokemon": "Squirtle Raro",
+        "ruta": "Ruta 4"
+    },
+    {
+        "username": "Aurek",
+        "eventName": "Captura",
+        "pokemon": "Ledyba Variado",
+        "ruta": "Ruta 4"
     }
 ]
