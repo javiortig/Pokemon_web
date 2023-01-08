@@ -88,7 +88,7 @@ function News() {
                   <div
                     className="d-flex border-bottom-blue pt-3 pb-4 align-items-center justify-content-between"
                   >
-                    <div className="pr-1">
+                    <div className="">
                       <h5 className="noticias">Subida del consumo de drogas en la población</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 2 días
@@ -107,8 +107,9 @@ function News() {
                   <div
                     className="d-flex border-bottom-blue pb-4 pt-4 align-items-center justify-content-between"
                   >
-                    <div className="pr-1">
-                      <h5 className="noticias">La población de robots aumenta en la región, inquietando a la población biológica</h5>
+                    <div className="">
+                      <h5 className="noticias">
+                        La población de robots aumenta en la región, inquietando a la población biológica</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Fotos </span>Hace 1 semana
                       </div>
@@ -126,7 +127,7 @@ function News() {
                   <div
                     className="d-flex pt-4 align-items-center justify-content-between"
                   >
-                    <div className="pr-1">
+                    <div className="">
                       <h5 className="noticias">La ciudad de Obani aumenta su contaminación un 16%.</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 2 semanas
