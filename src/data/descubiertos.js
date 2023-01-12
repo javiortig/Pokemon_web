@@ -9,7 +9,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -23,7 +23,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -37,7 +37,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -51,7 +51,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -65,7 +65,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -79,7 +79,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -93,7 +93,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -107,7 +107,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -121,7 +121,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -135,7 +135,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -149,7 +149,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -163,7 +163,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -177,7 +177,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -191,7 +191,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -205,7 +205,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -219,7 +219,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -233,7 +233,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -247,7 +247,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -261,7 +261,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -275,7 +275,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -289,7 +289,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "Si",
         "Yelo": "Si",
         "Chan-Chullo": "Si"
@@ -303,7 +303,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -317,7 +317,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -331,7 +331,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -345,7 +345,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -359,7 +359,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -373,7 +373,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -387,7 +387,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -401,7 +401,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -415,7 +415,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -429,7 +429,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -443,7 +443,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -457,7 +457,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -471,7 +471,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -485,7 +485,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -499,7 +499,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -513,7 +513,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -527,7 +527,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -541,7 +541,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -555,7 +555,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -569,7 +569,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -583,7 +583,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -597,7 +597,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -611,7 +611,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -625,7 +625,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -639,7 +639,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -653,7 +653,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -667,7 +667,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -681,7 +681,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -695,7 +695,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -709,7 +709,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -723,7 +723,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -737,7 +737,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -751,7 +751,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -765,7 +765,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -779,7 +779,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -793,7 +793,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -807,7 +807,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -821,7 +821,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -835,7 +835,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -849,7 +849,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -863,7 +863,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -877,7 +877,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -891,7 +891,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -905,7 +905,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -919,7 +919,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -933,7 +933,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -947,7 +947,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -961,7 +961,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -975,7 +975,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -989,7 +989,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1003,7 +1003,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1017,7 +1017,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1031,7 +1031,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1045,7 +1045,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1059,7 +1059,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1073,7 +1073,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1087,7 +1087,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1101,7 +1101,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1115,7 +1115,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1129,7 +1129,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1143,7 +1143,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1157,7 +1157,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1171,7 +1171,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1185,7 +1185,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1199,7 +1199,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1213,7 +1213,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1227,7 +1227,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1241,7 +1241,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1255,7 +1255,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1269,7 +1269,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1283,7 +1283,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1297,13 +1297,13 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
     },
     {
-        "Nombre": "Wartortle",
+        "Nombre": "Wartotle",
         "Raza": "Acu\u00c3\u00a1tica",
         "Admin": "Si",
         "Aurek": "",
@@ -1311,13 +1311,13 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
     },
     {
-        "Nombre": "Wartortle",
+        "Nombre": "Wartotle",
         "Raza": "Rara",
         "Admin": "Si",
         "Aurek": "",
@@ -1325,7 +1325,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1339,7 +1339,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1353,7 +1353,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1367,7 +1367,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1381,7 +1381,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1395,7 +1395,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1409,7 +1409,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1423,7 +1423,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1437,7 +1437,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1451,7 +1451,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1465,7 +1465,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1479,7 +1479,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1493,7 +1493,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1507,7 +1507,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1521,7 +1521,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1535,7 +1535,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1549,7 +1549,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1563,7 +1563,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1577,7 +1577,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1591,7 +1591,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1605,7 +1605,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1619,7 +1619,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1633,7 +1633,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1647,7 +1647,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1661,7 +1661,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1675,7 +1675,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1689,7 +1689,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1703,7 +1703,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1717,7 +1717,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1731,7 +1731,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1745,7 +1745,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1759,7 +1759,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1773,7 +1773,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1787,7 +1787,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1801,7 +1801,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1815,7 +1815,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1829,7 +1829,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1843,7 +1843,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1857,7 +1857,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1871,7 +1871,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1885,7 +1885,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1899,7 +1899,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1913,7 +1913,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1927,7 +1927,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1941,7 +1941,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1955,7 +1955,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1969,7 +1969,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1983,7 +1983,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -1997,7 +1997,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2011,7 +2011,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2025,7 +2025,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2039,7 +2039,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2053,7 +2053,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "Si",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "Si",
         "Yelo": "Si",
         "Chan-Chullo": "Si"
@@ -2067,7 +2067,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "Si",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "Si",
         "Yelo": "Si",
         "Chan-Chullo": "Si"
@@ -2081,7 +2081,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "Si",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "Si",
         "Yelo": "Si",
         "Chan-Chullo": "Si"
@@ -2095,7 +2095,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2109,7 +2109,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "Si",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "Si",
         "Yelo": "Si",
         "Chan-Chullo": "Si"
@@ -2123,7 +2123,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2137,7 +2137,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2151,7 +2151,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "Si",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "Si",
         "Yelo": "Si",
         "Chan-Chullo": "Si"
@@ -2165,7 +2165,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2179,7 +2179,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2193,7 +2193,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2207,7 +2207,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2221,7 +2221,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2235,7 +2235,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2249,7 +2249,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2263,7 +2263,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2277,7 +2277,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2291,7 +2291,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2305,7 +2305,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2319,7 +2319,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2333,7 +2333,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2347,7 +2347,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2361,7 +2361,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2375,7 +2375,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2389,7 +2389,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2403,7 +2403,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2417,7 +2417,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2431,7 +2431,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2445,7 +2445,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2459,7 +2459,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2473,7 +2473,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2487,7 +2487,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2501,7 +2501,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2515,7 +2515,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2529,7 +2529,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2543,7 +2543,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2557,7 +2557,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2571,7 +2571,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2585,7 +2585,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2599,7 +2599,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2613,7 +2613,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2627,7 +2627,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2641,7 +2641,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2655,7 +2655,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2669,7 +2669,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2683,7 +2683,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2697,7 +2697,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2711,7 +2711,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2725,7 +2725,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2739,7 +2739,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2753,7 +2753,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2767,7 +2767,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2781,7 +2781,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2795,7 +2795,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2809,7 +2809,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2823,7 +2823,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2837,7 +2837,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2851,7 +2851,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2865,7 +2865,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2879,7 +2879,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2893,7 +2893,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2907,7 +2907,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2921,7 +2921,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2935,7 +2935,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2949,7 +2949,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2963,7 +2963,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2977,7 +2977,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -2991,7 +2991,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3005,7 +3005,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3019,7 +3019,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3033,7 +3033,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3047,7 +3047,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3061,7 +3061,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3075,7 +3075,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3089,7 +3089,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3103,7 +3103,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "Si",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3117,7 +3117,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3131,7 +3131,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3145,7 +3145,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3159,7 +3159,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3173,7 +3173,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "Si",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3187,7 +3187,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3201,7 +3201,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3215,7 +3215,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3229,7 +3229,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3243,7 +3243,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3257,7 +3257,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3271,7 +3271,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3285,7 +3285,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3299,7 +3299,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3313,7 +3313,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3327,7 +3327,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3341,7 +3341,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3355,7 +3355,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3369,7 +3369,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3383,7 +3383,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3397,7 +3397,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3411,7 +3411,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3425,7 +3425,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3439,7 +3439,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3453,7 +3453,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3467,7 +3467,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3481,7 +3481,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3495,7 +3495,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3509,7 +3509,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3523,7 +3523,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3537,7 +3537,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3551,7 +3551,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3565,7 +3565,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3579,7 +3579,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3593,7 +3593,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3607,7 +3607,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3621,7 +3621,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3635,7 +3635,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3649,7 +3649,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3663,7 +3663,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3677,7 +3677,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3691,7 +3691,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3705,7 +3705,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3719,7 +3719,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3733,7 +3733,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3747,7 +3747,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3761,7 +3761,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3775,7 +3775,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3789,7 +3789,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3803,7 +3803,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3817,7 +3817,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3831,7 +3831,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3845,7 +3845,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3859,7 +3859,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3873,7 +3873,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3887,7 +3887,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3901,7 +3901,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3915,7 +3915,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3929,7 +3929,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3943,7 +3943,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3957,7 +3957,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3971,7 +3971,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3985,7 +3985,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -3999,7 +3999,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4013,7 +4013,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4027,7 +4027,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4041,7 +4041,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4055,7 +4055,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4069,7 +4069,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4083,7 +4083,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4097,7 +4097,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4111,7 +4111,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4125,7 +4125,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4139,7 +4139,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4153,7 +4153,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4167,7 +4167,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4181,7 +4181,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4195,7 +4195,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4209,7 +4209,7 @@ export const pokemonDescubiertos =
         "Patrick": "Si",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4223,7 +4223,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4237,7 +4237,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4251,7 +4251,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4265,7 +4265,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4279,7 +4279,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4293,7 +4293,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4307,7 +4307,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4321,7 +4321,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4335,7 +4335,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4349,7 +4349,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4363,7 +4363,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4377,7 +4377,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4391,7 +4391,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4405,7 +4405,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4419,7 +4419,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4433,7 +4433,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4447,7 +4447,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4461,7 +4461,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4475,7 +4475,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4489,7 +4489,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4503,7 +4503,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4517,7 +4517,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4531,7 +4531,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4545,7 +4545,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4559,7 +4559,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4573,7 +4573,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4587,7 +4587,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4601,7 +4601,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4615,7 +4615,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4629,7 +4629,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4643,7 +4643,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4657,7 +4657,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4671,7 +4671,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4685,7 +4685,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4699,7 +4699,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4713,7 +4713,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4727,7 +4727,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4741,7 +4741,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4755,7 +4755,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4769,7 +4769,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -4783,7 +4783,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "Juan": "",
+        "DeRivia": "",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""

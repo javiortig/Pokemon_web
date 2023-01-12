@@ -75,8 +75,8 @@ export const playerLogs =
     {
         "username": "Chan-Chullo",
         "eventName": "Inicio",
-        "pokemon": "Torchic",
-        "ruta": "Ciudad Verde, bazar de Chan"
+        "pokemon": "Torchic Shiny",
+        "ruta": "Laboratorio de Oak"
     },
     {
         "username": "Aurek",
@@ -113,5 +113,17 @@ export const playerLogs =
         "eventName": "Captura",
         "pokemon": "Ledyba Variado",
         "ruta": "Ruta 4"
+    },
+    {
+        "username": "DeRivia",
+        "eventName": "Inicio",
+        "pokemon": "Torchic Juguet\u00c3\u00b3n",
+        "ruta": "Laboratorio de Oak"
+    },
+    {
+        "username": "DeRivia",
+        "eventName": "Captura",
+        "pokemon": "Kakuna Decente",
+        "ruta": "Bosque Verde"
     }
 ]
