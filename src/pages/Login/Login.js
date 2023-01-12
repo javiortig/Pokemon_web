@@ -14,7 +14,8 @@ const userData = {
   SiO2: "poblato98",
   Yelo: "soloparapokemonrol",
   Cristianofan99: "elbicho",
-  Admin: "ubuntu"
+  Admin: "ubuntu",
+  DeRivia: "DeRivia"
 };
 
 const formStyle = {

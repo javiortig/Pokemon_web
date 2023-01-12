@@ -6,5 +6,6 @@ export const equiposPlayers = {
   SiO2: "",
   Yelo: "",
   Cristianofan99: "",
-  Admin: ""
+  Admin: "",
+  DeRivia: ""
 }   // "", "Magma" o "Aqua"

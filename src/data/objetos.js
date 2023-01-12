@@ -11,7 +11,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Hechizo",
@@ -24,7 +24,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Arena Fina",
@@ -37,7 +37,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Polvo Plata",
@@ -50,7 +50,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Pico Afilado",
@@ -63,7 +63,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Flecha Venenosa",
@@ -76,7 +76,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Antiderretir",
@@ -89,7 +89,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Agua M\u00c3\u00adstica",
@@ -102,7 +102,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Semilla Milagro",
@@ -115,7 +115,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Revestimiento Met\u00c3\u00a1lico",
@@ -128,7 +128,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Im\u00c3\u00a1n",
@@ -141,7 +141,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Piedra Dura",
@@ -154,7 +154,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Colmillo Drag\u00c3\u00b3n",
@@ -167,7 +167,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Carb\u00c3\u00b3n",
@@ -180,7 +180,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Gafas de Sol",
@@ -193,7 +193,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Cintur\u00c3\u00b3n Negro",
@@ -206,7 +206,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Pa\u00c3\u00b1uelo de Seda",
@@ -219,7 +219,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Gafas Especiales",
@@ -232,7 +232,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Cinta Fuerte",
@@ -245,7 +245,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Tub\u00c3\u00a9rculo",
@@ -258,7 +258,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Bola de Nieve",
@@ -271,7 +271,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Pila",
@@ -284,7 +284,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Musgo Brillante",
@@ -297,7 +297,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Garra Afilada",
@@ -310,7 +310,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Hueso Grueso",
@@ -323,7 +323,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Mineral Evolutivo",
@@ -336,7 +336,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Lupa",
@@ -349,7 +349,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Telescopio",
@@ -362,7 +362,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Semilla Hierba",
@@ -375,7 +375,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Semilla Electro",
@@ -388,7 +388,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Semilla Bruma ",
@@ -401,7 +401,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Semilla Psique",
@@ -414,7 +414,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Roca Suave",
@@ -427,7 +427,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Roca Lluvia",
@@ -440,7 +440,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Roca Hielo",
@@ -453,7 +453,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Roca Calor",
@@ -466,7 +466,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Gafa Protectora",
@@ -479,7 +479,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Pokeball",
@@ -492,7 +492,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Superball",
@@ -505,7 +505,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Ultraball",
@@ -518,7 +518,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Masterball",
@@ -531,7 +531,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Zreza",
@@ -544,7 +544,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Atania",
@@ -557,7 +557,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Meloc",
@@ -570,7 +570,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Safre",
@@ -583,7 +583,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Perasi",
@@ -596,7 +596,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Zreza",
@@ -609,7 +609,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Ziuela",
@@ -622,7 +622,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Cacoa",
@@ -635,7 +635,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Pasio",
@@ -648,7 +648,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Gualot",
@@ -661,7 +661,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Tamar",
@@ -674,7 +674,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Rimoya",
@@ -687,7 +687,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Pomaro",
@@ -700,7 +700,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Kebia",
@@ -713,7 +713,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Akardo",
@@ -726,7 +726,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Kouba",
@@ -739,7 +739,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Payapa",
@@ -752,7 +752,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Yecana",
@@ -765,7 +765,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Alcho",
@@ -778,7 +778,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Drasi",
@@ -791,7 +791,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Anjiro",
@@ -804,7 +804,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Dillo",
@@ -817,7 +817,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Barib\u00c3\u00a1",
@@ -830,7 +830,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Hibis",
@@ -843,7 +843,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Chilan",
@@ -856,7 +856,7 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     },
     {
         "Nombre": "Baya Wiki",
@@ -869,6 +869,6 @@ export const objetos =
         "lDiem": "",
         "SiO2": "",
         "Victor": "",
-        "Juan": ""
+        "DeRivia": ""
     }
 ]
