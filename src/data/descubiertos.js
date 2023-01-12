@@ -3179,7 +3179,7 @@ export const pokemonDescubiertos =
         "Chan-Chullo": ""
     },
     {
-        "Nombre": "beedrill",
+        "Nombre": "Beedrill",
         "Raza": "T\u00c3\u00b3xica",
         "Admin": "Si",
         "Aurek": "",
@@ -3193,7 +3193,7 @@ export const pokemonDescubiertos =
         "Chan-Chullo": ""
     },
     {
-        "Nombre": "beedrill",
+        "Nombre": "Beedrill",
         "Raza": "Cauta",
         "Admin": "Si",
         "Aurek": "",
@@ -3207,7 +3207,7 @@ export const pokemonDescubiertos =
         "Chan-Chullo": ""
     },
     {
-        "Nombre": "beedrill",
+        "Nombre": "Beedrill",
         "Raza": "Decente",
         "Admin": "Si",
         "Aurek": "",
