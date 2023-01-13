@@ -263,7 +263,8 @@ function News() {
                       <p className="mb-0 noticias">
                         Don Lobsa, de 64 años, lleva trabajando desde que tiene memoria en la tienda
                         subterránea del Monte Moon. Se queja de que últimamente unos perros vienen a 
-                        molestarlo durante la noche.
+                        molestarlo durante la noche. Si le dices que te gusta el musgo, posiblemente
+                        te regale algo.
                       </p>
                     </div>
                   </div>
