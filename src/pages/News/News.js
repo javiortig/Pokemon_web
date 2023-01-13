@@ -98,7 +98,6 @@ function News() {
                         src="/news_images/fumaos.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
-                        style={{width: 190, height: 140}}
                       />
                     </div>
                   </div>
@@ -118,7 +117,6 @@ function News() {
                         src="/news_images/robots.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
-                        style={{width: 190, height: 140}}
                       />
                     </div>
                   </div>
@@ -132,12 +130,11 @@ function News() {
                         <span className="mr-2 noticias">Foto </span>Hace 2 semanas
                       </div>
                     </div>
-                    <div className="rotate-img">
+                    <div className="rotate-img mi-imagen">
                       <img
                         src="/news_images/silver_city.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
-                        style={{width: 190, height: 140}}
                       />
                     </div>
                   </div>
