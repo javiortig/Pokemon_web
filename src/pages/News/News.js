@@ -93,7 +93,7 @@ function News() {
                         <span className="mr-2 noticias">Foto </span>Hace 2 días
                       </div>
                     </div>
-                    <div className="rotate-img">
+                    <div className="rotate-img mi-imagen">
                       <img
                         src="/news_images/fumaos.jpg"
                         alt="thumb"
@@ -112,7 +112,7 @@ function News() {
                         <span className="mr-2 noticias">Fotos </span>Hace 1 semana
                       </div>
                     </div>
-                    <div className="rotate-img">
+                    <div className="rotate-img mi-imagen">
                       <img
                         src="/news_images/robots.jpg"
                         alt="thumb"
