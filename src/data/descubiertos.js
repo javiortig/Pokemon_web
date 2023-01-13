@@ -331,7 +331,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "DeRivia": "",
+        "DeRivia": "Si",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -345,7 +345,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "DeRivia": "",
+        "DeRivia": "Si",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""
@@ -359,7 +359,7 @@ export const pokemonDescubiertos =
         "Patrick": "",
         "lDiem": "",
         "SiO2": "",
-        "DeRivia": "",
+        "DeRivia": "Si",
         "Cristianofan99": "",
         "Yelo": "",
         "Chan-Chullo": ""

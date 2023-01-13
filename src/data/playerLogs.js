@@ -123,7 +123,7 @@ export const playerLogs =
     {
         "username": "DeRivia",
         "eventName": "Captura",
-        "pokemon": "Kakuna Decente",
+        "pokemon": "Zubat Perspicaz",
         "ruta": "Bosque Verde"
     }
 ]

@@ -89,7 +89,7 @@ function News() {
                     className="d-flex border-bottom-blue pt-3 pb-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">Subida del consumo de drogas en la población</h5>
+                      <h5 className="noticias">Megacorp: Se busca a una mujer medio furra, un enano y un hombre hielo.</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 2 días
                       </div>
@@ -200,6 +200,7 @@ function News() {
                         La escasez de material científico y de especialistas ha provocado
                         una alteración en los precios de esta necesaria tecnología.
                       </p>
+                      <br></br>
                     </div>
                   </div>
 
@@ -232,6 +233,7 @@ function News() {
                         El ave legendaria Articuno ha sido vista en la ruta 3, provocando 
                         una estela de granizo por su paso.
                       </p>
+                      <br></br>
                     </div>
                   </div>
 
@@ -266,6 +268,7 @@ function News() {
                         molestarlo durante la noche. Si le dices que te gusta el musgo, posiblemente
                         te regale algo.
                       </p>
+                      <br></br>
                     </div>
                   </div>
                 </div>
