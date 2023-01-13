@@ -33,7 +33,6 @@ function News() {
       </Container>);
   });
   return (
-
     <div>
       <Header></Header>
       <div className="flash-news-banner">
@@ -47,8 +46,8 @@ function News() {
               </p> */}
             </div>
             <div className="d-flex">
-              <span className="mr-3 text-danger">Domingo, 7 Enero, 2023</span>
-              <span className="text-danger">21°C, Ciudad Celeste</span>
+              <span className="mr-3 text-danger">Viernes, 13 Enero, 2023</span>
+              <span className="text-danger">14°C, Ciudad Plateada</span>
             </div>
           </div>
         </div>
