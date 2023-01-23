@@ -58,7 +58,7 @@ function News() {
             <div className="col-xl-8 stretch-card grid-margin">
               <div className="position-relative">
                 <img
-                  src="/news_images/Ciudad_Celeste_Tienda_Cerrada.jpg"
+                  src="/news_images/police_house.jpg"
                   alt="banner"
                   className="img-fluid"
                   style={{width: 690, height: 390}}
@@ -68,13 +68,14 @@ function News() {
                   <div className="badge badge-danger fs-12 font-weight-bold mb-3">
                     Celeste News
                   </div>
-                  <h1 className="mb-0 text-white noticias">CERRADO PERMANENTEMENTE</h1>
+                  <h1 className="mb-0 text-white noticias">HOMICIDIO EN VILLAESPÉNDIDA</h1>
                   <h3 className="mb-2 text-white noticias">
-                    La tienda Pokémon de Ciudad Celeste ha cerrado permanentemente hasta
-                    nuevo aviso debido a la repentina desaparición de su dueño.
+                    Durante la tarde de un miércoles, se ha producido un homicido en el tranquilo
+                    barrio de VillaEspléndida, en Ciudad Celeste. La hija del difunto acusa a un varón alto de pelo
+                    blanco de los hechos, al que conoció en el gimnasio de Misty.
                   </h3>
                   <div className="fs-12">
-                    <span className="mr-2">Foto </span>Hace 2 días
+                    <span className="mr-2">Foto </span>Hace 3 días
                   </div>
                 </div>
               </div>
@@ -107,14 +108,14 @@ function News() {
                   >
                     <div className="">
                       <h5 className="noticias">
-                        La población de robots aumenta en la región, inquietando a la población biológica</h5>
+                        Homicidio a una anciana a las afueras de Ciudad Plateada.</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Fotos </span>Hace 1 semana
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
                       <img
-                        src="/news_images/robots.jpg"
+                        src="/news_images/senora_sombrero.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -125,14 +126,14 @@ function News() {
                     className="d-flex pt-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">La ciudad de Obani aumenta su contaminación un 16%.</h5>
+                      <h5 className="noticias">Aumentan los tatuajes en la población joven un 24%.</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 2 semanas
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
                       <img
-                        src="/news_images/silver_city.jpg"
+                        src="/news_images/tattoo.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -148,18 +149,18 @@ function News() {
                 <div className="card-body">
                   <h2>Category</h2>
                   <ul className="vertical-menu">
-                    <li><a href="#">Politics</a></li>
-                    <li><a href="#">International</a></li>
-                    <li><a href="#">Finance</a></li>
-                    <li><a href="#">Health care</a></li>
+                    <li><a href="#">Política</a></li>
+                    <li><a href="#">Internacional</a></li>
+                    <li><a href="#">Finanzas</a></li>
+                    <li><a href="#">Pesca</a></li>
                     <li><a href="#">Technology</a></li>
-                    <li><a href="#">Jobs</a></li>
-                    <li><a href="#">Media</a></li>
-                    <li><a href="#">Administration</a></li>
-                    <li><a href="#">Sports</a></li>
-                    <li><a href="#">Game</a></li>
-                    <li><a href="#">Art</a></li>
-                    <li><a href="#">Kids</a></li>
+                    <li><a href="#">Trabajo</a></li>
+                    <li><a href="#">Comunicación</a></li>
+                    <li><a href="#">Administración</a></li>
+                    <li><a href="#">Deportes</a></li>
+                    <li><a href="#">Videojuegos</a></li>
+                    <li><a href="#">Arte</a></li>
+                    <li><a href="#">Infantil</a></li>
                   </ul>
                 </div>
               </div>
@@ -180,21 +181,21 @@ function News() {
                         </div>
                         <div className="badge-positioned">
                           <span className="badge badge-danger font-weight-bold"
-                          >Megacorp News</span
+                          >Celeste News</span
                           >
                         </div>
                       </div>
                     </div>
                     <div className="col-sm-8  grid-margin">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        Subida de precios en los condensadores Pokémon
+                        ¡2 x 1 en condensadores nocturnos!
                       </h2>
                       <div className="fs-13 mb-2 noticias">
-                        <span className="mr-2 noticias">Foto </span>Hace 7 horas
+                        <span className="mr-2 noticias">Foto </span>Hace 13 horas
                       </div>
                       <p className="mb-0 noticias">
-                        La escasez de material científico y de especialistas ha provocado
-                        una alteración en los precios de esta necesaria tecnología.
+                        La tienda de Tommy está de liquidación y vende condensadores a mitad 
+                        de precio. Máximo 4 por persona.
                       </p>
                       <br></br>
                     </div>
@@ -205,7 +206,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/articuno.jpg"
+                            src="/news_images/zapdos.jpg"
                             alt="thumb"
                             className="img-fluid"
                             style={{width: 196, height: 136}}
@@ -226,8 +227,8 @@ function News() {
                         <span className="mr-2 noticias">Foto </span>Hace 4 días
                       </div>
                       <p className="mb-0 noticias">
-                        El ave legendaria Articuno ha sido vista en la ruta 3, provocando 
-                        una estela de granizo por su paso.
+                        El ave legendaria Zapdos ha sido vista en la ruta 3, provocando 
+                        una horrible tormenta durante toda la noche.
                       </p>
                       <br></br>
                     </div>
