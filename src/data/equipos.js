@@ -9,5 +9,5 @@ export const equiposPlayers = {
   Admin: "",
   DeRivia: "Aqua",
   nicolasbc14: "",
-  MiniPekkador: ""
+  Joselinni: ""
 }   // "", "Magma" o "Aqua"

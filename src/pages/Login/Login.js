@@ -17,7 +17,7 @@ const userData = {
   Admin: "ubuntu",
   DeRivia: "DeRivia",
   nicolasbc14: "nicolasbc14",
-  MiniPekkador: "tododile"
+  Joselinni: "tododile"
 };
 
 const formStyle = {
