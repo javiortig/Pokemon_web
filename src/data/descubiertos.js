@@ -1303,7 +1303,7 @@ export const pokemonDescubiertos =
         "Chan-Chullo": ""
     },
     {
-        "Nombre": "Wartotle",
+        "Nombre": "Wartortle",
         "Raza": "Acu\u00c3\u00a1tica",
         "Admin": "Si",
         "Aurek": "",
@@ -1317,7 +1317,7 @@ export const pokemonDescubiertos =
         "Chan-Chullo": ""
     },
     {
-        "Nombre": "Wartotle",
+        "Nombre": "Wartortle",
         "Raza": "Rara",
         "Admin": "Si",
         "Aurek": "",
