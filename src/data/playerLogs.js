@@ -125,5 +125,47 @@ export const playerLogs =
         "eventName": "Captura",
         "pokemon": "Zubat Perspicaz",
         "ruta": "Bosque Verde"
+    },
+    {
+        "username": "DeRivia",
+        "eventName": "Captura",
+        "pokemon": "Squirtle Acu\u00c3\u00a1tico",
+        "ruta": "Ruta 4"
+    },
+    {
+        "username": "Shiny",
+        "eventName": "Alistamiento",
+        "pokemon": "Magma",
+        "ruta": "Ciudad Azafr\u00c3\u00a1n"
+    },
+    {
+        "username": "Aurek",
+        "eventName": "Alistamiento",
+        "pokemon": "Magma",
+        "ruta": "Ciudad Azafr\u00c3\u00a1n"
+    },
+    {
+        "username": "DeRivia",
+        "eventName": "Captura",
+        "pokemon": "Mimikyu Pocho",
+        "ruta": "Ruta 7"
+    },
+    {
+        "username": "DeRivia",
+        "eventName": "Captura",
+        "pokemon": "Vulpix Quemado",
+        "ruta": "Ruta 7"
+    },
+    {
+        "username": "DeRivia",
+        "eventName": "Alistamiento",
+        "pokemon": "Aqua",
+        "ruta": "Ciudad Azulona"
+    },
+    {
+        "username": "DeRivia",
+        "eventName": "Muerte",
+        "pokemon": "Mimikyu Pocho",
+        "ruta": "Ruta 7"
     }
 ]

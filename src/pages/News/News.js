@@ -126,14 +126,14 @@ function News() {
                     className="d-flex pt-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">Aumentan los tatuajes en la población joven un 24%.</h5>
+                      <h5 className="noticias">El Team Aqua gana terreno al Team Magma en la ruta 7.</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 2 semanas
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
                       <img
-                        src="/news_images/tattoo.jpg"
+                        src="/news_images/team_aqua1.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
