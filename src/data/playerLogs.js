@@ -167,5 +167,29 @@ export const playerLogs =
         "eventName": "Muerte",
         "pokemon": "Mimikyu Pocho",
         "ruta": "Ruta 7"
+    },
+    {
+        "username": "DeRivia",
+        "eventName": "Captura",
+        "pokemon": "Ratata Mordedora",
+        "ruta": "Ruta 1"
+    },
+    {
+        "username": "Joselinni",
+        "eventName": "Inicio",
+        "pokemon": "Totodile Juguet\u00c3\u00b3n",
+        "ruta": "Laboratorio de Oak"
+    },
+    {
+        "username": "Joselinni",
+        "eventName": "Captura",
+        "pokemon": "Caterpie Flexible",
+        "ruta": "Ruta 3"
+    },
+    {
+        "username": "Joselinni",
+        "eventName": "Muerte",
+        "pokemon": "Caterpie Flexible",
+        "ruta": "Mt. Moon"
     }
 ]
