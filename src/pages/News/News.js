@@ -47,7 +47,7 @@ function News() {
             </div>
             <div className="d-flex">
               <span className="mr-3 text-danger">Viernes, 13 Enero, 2023</span>
-              <span className="text-danger">14°C, Ciudad Plateada</span>
+              <span className="text-danger">24°C, Ciudad Azafrán</span>
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@ function News() {
             <div className="col-xl-8 stretch-card grid-margin">
               <div className="position-relative">
                 <img
-                  src="/news_images/police_house.jpg"
+                  src="/news_images/enanos_borrachos.jpg"
                   alt="banner"
                   className="img-fluid"
                   style={{width: 690, height: 390}}
@@ -68,11 +68,12 @@ function News() {
                   <div className="badge badge-danger fs-12 font-weight-bold mb-3">
                     Celeste News
                   </div>
-                  <h1 className="mb-0 text-white noticias">HOMICIDIO EN VILLAESPÉNDIDA</h1>
+                  <h1 className="mb-0 text-white noticias">Victoria en Ciudad Celeste</h1>
                   <h3 className="mb-2 text-white noticias">
-                    Durante la tarde de un miércoles, se ha producido un homicido en el tranquilo
-                    barrio de VillaEspléndida, en Ciudad Celeste. La hija del difunto acusa a un varón alto de pelo
-                    blanco de los hechos, al que conoció en el gimnasio de Misty.
+                    El entrenador Cristianofan99 ha derrotado a la líder Misty en el gimnasio de agua de Ciudad Celeste.
+                    Tras su gran hazaña, decidió celebrarlo por todo lo alto. Los vecinos de los alrededores
+                    aseguran que lo vieron bebiendo hasta de las copas de los árboles.
+
                   </h3>
                   <div className="fs-12">
                     <span className="mr-2">Foto </span>Hace 3 días
@@ -89,9 +90,9 @@ function News() {
                     className="d-flex border-bottom-blue pt-3 pb-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">Megacorp: Se busca a una mujer medio furra, un enano y un hombre hielo.</h5>
+                      <h5 className="noticias">Orgía de Enanos en Pueblo Paleta</h5>
                       <div className="fs-12 noticias">
-                        <span className="mr-2 noticias">Foto </span>Hace 2 días
+                        <span className="mr-2 noticias">Foto </span>Hace 7 días
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
@@ -108,14 +109,14 @@ function News() {
                   >
                     <div className="">
                       <h5 className="noticias">
-                        Homicidio a una anciana a las afueras de Ciudad Plateada.</h5>
+                        Megacorp anuncia que pronto lanzará a la venta sus protomascotas</h5>
                       <div className="fs-12 noticias">
-                        <span className="mr-2 noticias">Fotos </span>Hace 1 semana
+                        <span className="mr-2 noticias">Fotos </span>Hace 2 días
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
                       <img
-                        src="/news_images/senora_sombrero.jpg"
+                        src="/news_images/Protopet.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -126,7 +127,7 @@ function News() {
                     className="d-flex pt-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">El Team Aqua gana terreno al Team Magma en la ruta 7.</h5>
+                      <h5 className="noticias">El Team Aqua llega a las puertas de Ciudad Azafrán</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 2 semanas
                       </div>
@@ -194,8 +195,8 @@ function News() {
                         <span className="mr-2 noticias">Foto </span>Hace 13 horas
                       </div>
                       <p className="mb-0 noticias">
-                        La tienda de Tommy está de liquidación y vende condensadores a mitad 
-                        de precio. Máximo 4 por persona.
+                        La tienda de Tommy está de liquidación y vende condensadores a 2x1. Máximo por persona. 
+                        Encuéntralo en Ciudad Celeste.
                       </p>
                       <br></br>
                     </div>
@@ -206,7 +207,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/zapdos.jpg"
+                            src="/news_images/team_aqua2.jpg"
                             alt="thumb"
                             className="img-fluid"
                             style={{width: 196, height: 136}}
@@ -214,21 +215,21 @@ function News() {
                         </div>
                         <div className="badge-positioned">
                           <span className="badge badge-danger font-weight-bold"
-                          >Kanto News</span
+                          >Celeste News</span
                           >
                         </div>
                       </div>
                     </div>
                     <div className="col-sm-8  grid-margin">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        Avistamiento de un pájaro legendario
+                        Pelea a la Salida del Gimnasio de Ciudad Celeste
                       </h2>
                       <div className="fs-13 mb-2 noticias">
-                        <span className="mr-2 noticias">Foto </span>Hace 4 días
+                        <span className="mr-2 noticias">Foto </span>Hace 5 días
                       </div>
                       <p className="mb-0 noticias">
-                        El ave legendaria Zapdos ha sido vista en la ruta 3, provocando 
-                        una horrible tormenta durante toda la noche.
+                        Cuatro miembros del Team Aqua emboscaron a dos contrincantes del Team Magma. 
+                        Tras una gran cantidad de bajas, el cuarteto acuático salió victorioso.
                       </p>
                       <br></br>
                     </div>
@@ -239,7 +240,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/montanero.jpg"
+                            src="/news_images/taberna.jpg"
                             alt="thumb"
                             className="img-fluid"
                             style={{width: 196, height: 136}}
@@ -247,23 +248,23 @@ function News() {
                         </div>
                         <div className="badge-positioned">
                           <span className="badge badge-danger font-weight-bold"
-                          >Kanto News</span
+                          >OldWood News</span
                           >
                         </div>
                       </div>
                     </div>
                     <div className="col-sm-8">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        Lobsa, un trabajador humidle
+                        Apuestas ilegales en el Tunel Roca 
                       </h2>
                       <div className="fs-13 mb-2 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 9 días
                       </div>
                       <p className="mb-0 noticias">
-                        Don Lobsa, de 64 años, lleva trabajando desde que tiene memoria en la tienda
-                        subterránea del Monte Moon. Se queja de que últimamente unos perros vienen a 
-                        molestarlo durante la noche. Si le dices que te gusta el musgo, posiblemente
-                        te regale algo.
+                        Ciertos miembros del equipo de investigación aseguran que en la última planta del
+                        Tunel Roca se realizan apuestas ilegales. 
+                        Se recomienda a todos los lectores abstenerse de cualquier tipo de actividad ilegal,
+                        pues los maleantes de la zona no son gente de fiar.
                       </p>
                       <br></br>
                     </div>
