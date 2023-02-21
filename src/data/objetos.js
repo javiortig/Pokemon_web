@@ -664,7 +664,7 @@ export const objetos =
         "DeRivia": ""
     },
     {
-        "Nombre": "Baya Zreza",
+        "Nombre": "Baya Confri",
         "Descripcion": "Cura la confusión al instante.",
         "Ruta": "",
         "Rareza": "Común",
