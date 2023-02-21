@@ -189,14 +189,15 @@ function News() {
                     </div>
                     <div className="col-sm-8  grid-margin">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        ¡2 x 1 en condensadores nocturnos!
+                        ¡Actualización de la base de datos de la Pokédex!
                       </h2>
                       <div className="fs-13 mb-2 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 13 horas
                       </div>
                       <p className="mb-0 noticias">
-                        La tienda de Tommy está de liquidación y vende condensadores a 2x1. Máximo por persona. 
-                        Encuéntralo en Ciudad Celeste.
+                        La famosa Pokédex del Profesor Oak ha recibido una actualización. Ahora todos
+                        los poseedores de esta tecnología tienen información sobre todos los Pokémon
+                        de la región de Kanto.
                       </p>
                       <br></br>
                     </div>
