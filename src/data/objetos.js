@@ -443,7 +443,7 @@ export const objetos =
         "DeRivia": ""
     },
     {
-        "Nombre": "Roca Eectrificada",
+        "Nombre": "Roca Electrificada",
         "Descripcion": "Al entrar en combate, 70% de provocar un campo el\u00e9ctrico(consumible).",
         "Ruta": "",
         "Rareza": "Común",
