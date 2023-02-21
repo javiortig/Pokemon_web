@@ -158,8 +158,8 @@ function Home({ history, ...props }) {
             }
             endMessage={
               <p className="text-light" style={{ textAlign: "center", fontSize: "50%" }}>
-                <b>Ve al Noreste en tu pueblo natal, hacia la casa de Lola. Busca entre los arbustos morados de su huerto.
-                  Allí encontrarás un condensador Shiny.
+                <b>Ve al Noreste en tu pueblo natal, hacia la casa del tío Rafa. Busca entre los arbustos morados de su huerto.
+                  Allí encontrarás tres condensadores Shiny.
                 </b>
               </p>
             }
