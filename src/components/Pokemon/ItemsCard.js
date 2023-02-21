@@ -35,7 +35,7 @@ const ItemCard = ({
             <Row>
               <Col>
                 <p className="text-center">{description}</p>
-                <p className="text-center">{'Ruta: '}&nbsp;<b>{route}</b>{'.'}&nbsp;&nbsp;&nbsp;{'Rareza: '}&nbsp;
+                <p className="text-center">{'Rareza: '}&nbsp;
                 <b className={
                   (rarity === 'Legendaria')?('rareza-legendaria')
                   :((rarity === 'Épica')?('rareza-epica')
