@@ -39,18 +39,18 @@ function Items({ history, ...props }) {
   sortedObjetos.sort(sortByProperty('Nombre'));
 
   for (let i = 0; i < sortedObjetos.length; i++) {
-    if (sortedObjetos[i][username] === '') {
-      itemList.push(
-      <div style={ItemCard_Style}>
-          <ItemCard name={'????'}
-            description={'¡Explora la región para encontrarlo!.'}
-            route={'????'}
-            rarity={'?'}>
-          </ItemCard >
-        </div>
-      );
-    }
-    else {
+    // if (sortedObjetos[i][username] === '') {
+    //   itemList.push(
+    //   <div style={ItemCard_Style}>
+    //       <ItemCard name={'????'}
+    //         description={'¡Explora la región para encontrarlo!.'}
+    //         route={'????'}
+    //         rarity={'?'}>
+    //       </ItemCard >
+    //     </div>
+    //   );
+    // }
+    // else {
       itemList.push(
         <div style={ItemCard_Style}>
           <ItemCard name={sortedObjetos[i].Nombre}
@@ -60,7 +60,7 @@ function Items({ history, ...props }) {
           </ItemCard >
         </div>
       );
-    }
+    // }
 
 
   }
