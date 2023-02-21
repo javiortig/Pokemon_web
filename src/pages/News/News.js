@@ -174,7 +174,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/cilindros.jpg"
+                            src="/news_images/oak.jpg"
                             alt="thumb"
                             className="img-fluid"
                             style={{width: 196, height: 136}}
