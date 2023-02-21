@@ -16,7 +16,7 @@ const userData = {
   Cristianofan99: "elbicho",
   Admin: "ubuntu",
   DeRivia: "DeRivia",
-  nicolasbc14: "nicolasbc14",
+  'Chan-Chullo': "nicolasbc14",
   Joselinni: "tododile"
 };
 
