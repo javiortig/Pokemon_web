@@ -16,7 +16,7 @@ function Routes() {
         <Switch>
           <Route exact path="/" component={Login} />
           <Route exact path="/home/:query?" component={Home} />
-          <Route exact path="/menu/items" component={Items} />
+          <Route exact path="/menu/item" component={Items} />
           <Route exact path="/menu/playerLogs" component={PlayerLogs} />
           <Route exact path="/menu/map" component={Map} />
           <Route exact path="/details/:name?" component={Details} />

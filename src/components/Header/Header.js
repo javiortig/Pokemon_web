@@ -17,7 +17,7 @@ const Header = () => {
         <a id="login" className="menu-item" href="/">Login</a>
         <a id="home" className="menu-item" href="/home">Pokedex</a>
         <a id="map" className="menu-item" href="/menu/map">Mapa</a>
-        <a id="items" className="menu-item" href="/menu/items">Items</a>
+        <a id="items" className="menu-item" href="/menu/item">Items</a>
         <a id="logs" className="menu-item" href="/menu/playerLogs">Registro</a>
         <a id="News" className="menu-item" href="/menu/news">Noticias</a>
       </Menu>
