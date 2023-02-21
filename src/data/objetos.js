@@ -404,7 +404,7 @@ export const objetos =
         "DeRivia": ""
     },
     {
-        "Nombre": "Semilla Bruma ",
+        "Nombre": "Semilla Bruma",
         "Descripcion": "Aumenta +1 lvl la defensa especial al activarse la niebla. (consumible).",
         "Ruta": "",
         "Rareza": "Común ",
@@ -989,7 +989,7 @@ export const objetos =
         "DeRivia": ""
     },
     {
-        "Nombre": "Superpoción ",
+        "Nombre": "Superpoción",
         "Descripcion": "Cura 4 puntos de salud fuera de combate.",
         "Ruta": "",
         "Rareza": "Común",
