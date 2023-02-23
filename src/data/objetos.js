@@ -1159,7 +1159,7 @@ export const objetos =
     },
     {
         "Nombre": "Cinta Elección",
-        "Descripcion": "El usuario no puede recibir daño ni efectos de estado por contacto",
+        "Descripcion": "Aumenta +1 lvl. el ataque del usuario, a cambio de solo poder usar un ataque durante todo el combate y  obtener -10% acc.",
         "Ruta": "",
         "Rareza": "Legendaria",
         "Admin": "",
@@ -1173,6 +1173,19 @@ export const objetos =
     {
         "Nombre": "Brazal Firme",
         "Descripcion": "El usuario no puede retroceder, ser confundido ni enamorado.",
+        "Ruta": "",
+        "Rareza": "Poco Común",
+        "Admin": "",
+        "Aurek": "",
+        "Lucia": "",
+        "lDiem": "",
+        "SiO2": "",
+        "Victor": "",
+        "DeRivia": ""
+    },
+    {
+        "Nombre": "Paracontacto",
+        "Descripcion": "El usuario no puede recibir efectos secundarios por contacto.",
         "Ruta": "",
         "Rareza": "Poco Común",
         "Admin": "",
