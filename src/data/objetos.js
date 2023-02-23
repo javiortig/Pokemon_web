@@ -1158,8 +1158,21 @@ export const objetos =
         "DeRivia": ""
     },
     {
-        "Nombre": "Paracontacto",
+        "Nombre": "Cinta Elección",
         "Descripcion": "El usuario no puede recibir daño ni efectos de estado por contacto",
+        "Ruta": "",
+        "Rareza": "Legendaria",
+        "Admin": "",
+        "Aurek": "",
+        "Lucia": "",
+        "lDiem": "",
+        "SiO2": "",
+        "Victor": "",
+        "DeRivia": ""
+    },
+    {
+        "Nombre": "Brazal Firme",
+        "Descripcion": "El usuario no puede retroceder, ser confundido ni enamorado.",
         "Ruta": "",
         "Rareza": "Poco Común",
         "Admin": "",
