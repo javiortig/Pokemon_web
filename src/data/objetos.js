@@ -652,7 +652,7 @@ export const objetos =
     },
     {
         "Nombre": "Baya Perasi",
-        "Descripcion": "Cura la confusión al instante. Al hacerlo, restaura 2 ps.",
+        "Descripcion": "Cura la congelación al instante.",
         "Ruta": "",
         "Rareza": "Común",
         "Admin": "Si",
@@ -665,7 +665,7 @@ export const objetos =
     },
     {
         "Nombre": "Baya Confri",
-        "Descripcion": "Cura la confusión al instante.",
+        "Descripcion": "Cura la confusión al instante. Al hacerlo, restaura 2 ps.",
         "Ruta": "",
         "Rareza": "Común",
         "Admin": "Si",
