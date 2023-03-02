@@ -94,7 +94,17 @@ function Details({ history, ...props }) {
   }
   
   function getMyStats(){
-    var myStats = GetStatsByPokemonName(details.name);
+    var myStats;
+    console.log(details)
+    if(details.name === "castform"){
+      myStats = GetStatsByPokemonName("castform normal");
+      console.log(myStats)
+    }
+    else{
+      myStats = GetStatsByPokemonName(details.name);
+    }
+    
+    
 
     myStats.push({
       "name": "Capture rate",

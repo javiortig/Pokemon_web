@@ -108,6 +108,23 @@ function Home({ history, ...props }) {
       all.push(obj);
     }
 
+    //Añadir castform
+    let pokeDetails = await api.get(
+      `/pokemon/castform`
+    );
+
+    obj = {
+      name: pokeDetails.data.name,
+      id: pokeDetails.data.id,
+      types: pokeDetails.data.types,
+      number: pokeDetails.data.id.toString().padStart(3, "0"),
+      image:
+        pokeDetails.data.sprites.versions["generation-v"]["black-white"]
+          .animated.front_default,
+    };
+    all.push(obj);
+    //Fin añadir castform
+
     SavePokemons(all);
     pokemonsOriginal = all;
     HandlerResult(all.length, all);
