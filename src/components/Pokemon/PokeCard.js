@@ -15,7 +15,8 @@ const PokeCard = ({ name, id, types, click, number }) => {
 
   return (
     <div className="container-card mb-4" style={{minHeight: "390px"}}>
-      {GetDescubiertoByName(name) ? (
+      {/* {GetDescubiertoByName(name) ? ( */}
+      {true ? (
         <>
       <div>
         <div className="text-center">

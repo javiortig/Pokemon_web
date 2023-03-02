@@ -11,7 +11,9 @@ const PokeCartasFisicas = ({ name, types }) => {
           myPokemons.map((item, index) => {
             //console.log(item.Nombre + '===' + name + ':' + (item.Nombre === name));
             if (item.Nombre.toLowerCase() === name) {
-              if (GetRazaDescubierta(item.Nombre.toLowerCase(), item.Raza.toLowerCase())) {
+              // if (GetRazaDescubierta(item.Nombre.toLowerCase(), item.Raza.toLowerCase())) {
+              if (true) {
+                console.log('/cartasFisicas/' + item.Nombre + '_' + item.Raza + '.png')
                 return (
                   <div className="text-center">
                     <img className="carta-fisica"
