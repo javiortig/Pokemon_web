@@ -46,8 +46,8 @@ function News() {
               </p> */}
             </div>
             <div className="d-flex">
-              <span className="mr-3 text-danger">Viernes, 13 Enero, 2023</span>
-              <span className="text-danger">24°C, Ciudad Azafrán</span>
+              <span className="mr-3 text-danger">Jueves, 2 Marzo, 2023</span>
+              <span className="text-danger">35°C, Ciudad Azafrán</span>
             </div>
           </div>
         </div>
