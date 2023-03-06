@@ -58,7 +58,7 @@ function News() {
             <div className="col-xl-8 stretch-card grid-margin">
               <div className="position-relative">
                 <img
-                  src="/news_images/enanos_borrachos.jpg"
+                  src="/news_images/blaziken.jpg"
                   alt="banner"
                   className="img-fluid"
                   style={{width: 690, height: 390}}
@@ -66,13 +66,13 @@ function News() {
                 />
                 <div className="banner-content">
                   <div className="badge badge-danger fs-12 font-weight-bold mb-3">
-                    Celeste News
+                    Plateada News
                   </div>
-                  <h1 className="mb-0 text-white noticias">Victoria en Ciudad Celeste</h1>
+                  <h1 className="mb-0 text-white noticias">Motosierra ha sido aniquilado</h1>
                   <h3 className="mb-2 text-white noticias">
-                    El entrenador Cristianofan99 ha derrotado a la líder Misty en el gimnasio de agua de Ciudad Celeste.
-                    Tras su gran hazaña, decidió celebrarlo por todo lo alto. Los vecinos de los alrededores
-                    aseguran que lo vieron bebiendo hasta de las copas de los árboles.
+                    Tras 503 combates invicto, el gran guerrero Motosierra fue derrotado por dos combatientes
+                    procedentes de Pueblo Paleta, miembros del Team Magma. El excampeón fue abasallado en un solo 
+                    turno por dos habilidosos Blazikens.
 
                   </h3>
                   <div className="fs-12">
@@ -90,14 +90,14 @@ function News() {
                     className="d-flex border-bottom-blue pt-3 pb-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">Orgía de Enanos en Pueblo Paleta</h5>
+                      <h5 className="noticias">Cadáver de Salamence con ano prolapsado en Ciudad Azafrán</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 7 días
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
                       <img
-                        src="/news_images/fumaos.jpg"
+                        src="/news_images/dead_salamence.webp"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -127,14 +127,14 @@ function News() {
                     className="d-flex pt-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">El Team Aqua llega a las puertas de Ciudad Azafrán</h5>
+                      <h5 className="noticias">El Team Magma recupera su territorio en la ruta 7</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 2 semanas
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
                       <img
-                        src="/news_images/team_aqua1.jpg"
+                        src="/news_images/Drake_patrick_aurek.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -208,7 +208,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/team_aqua2.jpg"
+                            src="/news_images/bosque_verde.jpg"
                             alt="thumb"
                             className="img-fluid"
                             style={{width: 196, height: 136}}
@@ -223,14 +223,16 @@ function News() {
                     </div>
                     <div className="col-sm-8  grid-margin">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        Pelea a la Salida del Gimnasio de Ciudad Celeste
+                        Homicido devastador en las profundidades del Bosque Verde
                       </h2>
                       <div className="fs-13 mb-2 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 5 días
                       </div>
                       <p className="mb-0 noticias">
-                        Cuatro miembros del Team Aqua emboscaron a dos contrincantes del Team Magma. 
-                        Tras una gran cantidad de bajas, el cuarteto acuático salió victorioso.
+                        Unos cazabichos de la zona aseguran haber presenciado el asesinato de un
+                        compañero de oficio a manos de dos varones. Dicen que vieron cómo un solo ataque
+                        sincronizado fue catapultado a través del bosque, y fue tal el impacto que generó un nuevo atajo en el lugar, 
+                        con su fauna propia y todo.
                       </p>
                       <br></br>
                     </div>
