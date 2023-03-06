@@ -230,7 +230,7 @@ function News() {
                       </div>
                       <p className="mb-0 noticias">
                         Unos cazabichos de la zona aseguran haber presenciado el asesinato de un
-                        compañero de oficio a manos de dos varones. Dicen que vieron cómo un solo ataque
+                        compañero de oficio a manos de dos varones. Dicen que vieron cómo de un solo ataque
                         sincronizado fue catapultado a través del bosque, y fue tal el impacto que generó un nuevo atajo en el lugar, 
                         con su fauna propia y todo.
                       </p>
