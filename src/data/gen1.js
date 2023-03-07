@@ -15503,7 +15503,7 @@ export const myPokemons = [
     "SUMA": ""
   },
   {
-    "Nombre": "Croagun",
+    "Nombre": "Croagunk",
     "Raza": "Seca",
     "Num_rutas": "",
     "Num_Pokedex": 453,
@@ -15540,7 +15540,7 @@ export const myPokemons = [
     "SUMA": ""
   },
   {
-    "Nombre": "Croagun",
+    "Nombre": "Croagunk",
     "Raza": "Venenosa",
     "Num_rutas": "",
     "Num_Pokedex": 453,
