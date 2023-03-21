@@ -90,14 +90,14 @@ function News() {
                     className="d-flex border-bottom-blue pt-3 pb-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">Cadáver de Salamence con ano prolapsado en Ciudad Azafrán</h5>
+                      <h5 className="noticias">El team Aqua recluta nuevos miembros en su plantilla</h5>
                       <div className="fs-12 noticias">
-                        <span className="mr-2 noticias">Foto </span>Hace 7 días
+                        <span className="mr-2 noticias">Foto </span>Hace 17 días
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
                       <img
-                        src="/news_images/dead_salamence.webp"
+                        src="/news_images/team_aqua1.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -111,7 +111,7 @@ function News() {
                       <h5 className="noticias">
                         Megacorp anuncia que pronto lanzará a la venta sus protomascotas</h5>
                       <div className="fs-12 noticias">
-                        <span className="mr-2 noticias">Fotos </span>Hace 2 días
+                        <span className="mr-2 noticias">Fotos </span>Hace 21 días
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
@@ -129,7 +129,7 @@ function News() {
                     <div className="">
                       <h5 className="noticias">El Team Magma recupera su territorio en la ruta 7</h5>
                       <div className="fs-12 noticias">
-                        <span className="mr-2 noticias">Foto </span>Hace 2 semanas
+                        <span className="mr-2 noticias">Foto </span>Hace 3 semanas
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
@@ -174,7 +174,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/oak.jpg"
+                            src="/news_images/silueta_mewtwo.jpg"
                             alt="thumb"
                             className="img-fluid"
                             style={{width: 196, height: 136}}
@@ -189,15 +189,15 @@ function News() {
                     </div>
                     <div className="col-sm-8  grid-margin">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        ¡Actualización de la base de datos de la Pokédex!
+                        ¡Ha aparecido un nuevo Pokémon en la Pokédex!
                       </h2>
                       <div className="fs-13 mb-2 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 13 horas
                       </div>
                       <p className="mb-0 noticias">
-                        La famosa Pokédex del Profesor Oak ha recibido una actualización. Ahora todos
-                        los poseedores de esta tecnología tienen información sobre todos los Pokémon
-                        de la región de Kanto.
+                        La famosa Pokédex del Profesor Oak ha recibido una actualización. Ha aparecido un Pokémon
+                        nunca antes visto en la región. Los usuarios ya han abierto todo tipo de teorías,
+                        incluso de que se trata de un legendario
                       </p>
                       <br></br>
                     </div>
@@ -243,7 +243,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/taberna.jpg"
+                            src="/news_images/tunel_roca.jpg"
                             alt="thumb"
                             className="img-fluid"
                             style={{width: 196, height: 136}}
@@ -258,16 +258,15 @@ function News() {
                     </div>
                     <div className="col-sm-8">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        Apuestas ilegales en el Tunel Roca 
+                        Triple homocidio en las profundidades del Túnel Roca
                       </h2>
                       <div className="fs-13 mb-2 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 9 días
                       </div>
                       <p className="mb-0 noticias">
-                        Ciertos miembros del equipo de investigación aseguran que en la última planta del
-                        Tunel Roca se realizan apuestas ilegales. 
-                        Se recomienda a todos los lectores abstenerse de cualquier tipo de actividad ilegal,
-                        pues los maleantes de la zona no son gente de fiar.
+                        Tres cadáveres, dos de ellos exmiembros del Team Magma, han sido encontrados,
+                        presuntamente asesinados, en el segundo piso del Túnel Roca. Aunque no se sabe nada más
+                        al respecto, ciertas investigaciones apuntan a que podría tratarse de una venganza.
                       </p>
                       <br></br>
                     </div>
