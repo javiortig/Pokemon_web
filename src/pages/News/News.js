@@ -73,7 +73,7 @@ function News() {
                     En el coliseo de Ciudad Plateada, ambos equipos contrincantes se jugaron el control
                     de la ruta 7, que lleva en conflicto desde hace 50 años. El team Aqua fue derrotado en
                     los tres combates del evento, tanto los individuales como el combate doble, por los oficiales
-                    Patrick Bateman y Aurek. A raíz de su victoria, estos obtenieron la codiciada eviolita
+                    Patrick Bateman y Aurek. A raíz de su victoria, estos obtenieron la codiciada eviolita.
 
                   </h3>
                   <div className="fs-12">
@@ -198,7 +198,7 @@ function News() {
                       <p className="mb-0 noticias">
                         La famosa Pokédex del Profesor Oak ha recibido una actualización. Ha aparecido un Pokémon
                         nunca antes visto en la región. Los usuarios ya han abierto todo tipo de teorías,
-                        incluso de que se trata de un legendario
+                        incluso de que se trata de un legendario.
                       </p>
                       <br></br>
                     </div>
