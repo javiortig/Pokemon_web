@@ -340,7 +340,7 @@ export const objetos =
     },
     {
         "Nombre": "Mineral Evolutivo",
-        "Descripcion": "Aumenta +1lvl. ambas defensas. Las defensas del usuario no pueden aumentar más. Solo funciona en Pok\u00e9mon que puedan evolucionar.",
+        "Descripcion": "Aumenta +1lvl. ambas defensas. Las defensas del usuario no pueden aumentar más. Solo funciona en Pokémon que puedan evolucionar o incompletos.",
         "Ruta": "",
         "Rareza": "Legendaria",
         "Admin": "Si",
@@ -431,7 +431,7 @@ export const objetos =
     },
     {
         "Nombre": "Roca Vegetada",
-        "Descripcion": "Al entrar en combate, 70% de provocar un campo de hierba (consumible).",
+        "Descripcion": "Al entrar en combate, 80% de provocar un campo de hierba (consumible).",
         "Ruta": "",
         "Rareza": "Común",
         "Admin": "Si",
@@ -444,7 +444,7 @@ export const objetos =
     },
     {
         "Nombre": "Roca Electrificada",
-        "Descripcion": "Al entrar en combate, 70% de provocar un campo el\u00e9ctrico(consumible).",
+        "Descripcion": "Al entrar en combate, 80% de provocar un campo el\u00e9ctrico(consumible).",
         "Ruta": "",
         "Rareza": "Común",
         "Admin": "Si",
@@ -457,7 +457,7 @@ export const objetos =
     },
     {
         "Nombre": "Roca Relajante",
-        "Descripcion": "Al entrar en combate, 70% de provocar un campo psíquico (se consume).",
+        "Descripcion": "Al entrar en combate, 80% de provocar un campo psíquico (se consume).",
         "Ruta": "",
         "Rareza": "Común",
         "Admin": "Si",
@@ -470,7 +470,7 @@ export const objetos =
     },
     {
         "Nombre": "Roca Suave",
-        "Descripcion": "Al entrar en combate, 70% de provocar una tormenta de arena (se consume).",
+        "Descripcion": "Al entrar en combate, 80% de provocar una tormenta de arena (se consume).",
         "Ruta": "",
         "Rareza": "Común",
         "Admin": "Si",
@@ -483,7 +483,7 @@ export const objetos =
     },
     {
         "Nombre": "Roca Lluvia",
-        "Descripcion": "Al entrar en combate, 70% de provocar clima lluvioso (se consume).",
+        "Descripcion": "Al entrar en combate, 80% de provocar clima lluvioso (se consume).",
         "Ruta": "",
         "Rareza": "Común",
         "Admin": "Si",
@@ -496,7 +496,7 @@ export const objetos =
     },
     {
         "Nombre": "Roca Hielo",
-        "Descripcion": "Al entrar en combate, 70% de provocar granizo (se consume).",
+        "Descripcion": "Al entrar en combate, 80% de provocar granizo (se consume).",
         "Ruta": "",
         "Rareza": "Común",
         "Admin": "Si",
@@ -509,7 +509,7 @@ export const objetos =
     },
     {
         "Nombre": "Roca Calor",
-        "Descripcion": "Al entrar en combate, 70% de provocar clima soleado(se consume).",
+        "Descripcion": "Al entrar en combate, 80% de provocar clima soleado(se consume).",
         "Ruta": "",
         "Rareza": "Común",
         "Admin": "Si",
@@ -1068,7 +1068,7 @@ export const objetos =
     },
     {
         "Nombre": "Cola plúmbea",
-        "Descripcion": "Otorga -10 de velocidad al portador.",
+        "Descripcion": "Otorga -10 de velocidad al portador y +10% de crítico",
         "Ruta": "",
         "Rareza": "Poco Común",
         "Admin": "",
@@ -1146,7 +1146,7 @@ export const objetos =
     },
     {
         "Nombre": "Orbe Tóxico",
-        "Descripcion": "El usuario se envenena al empezar el combate",
+        "Descripcion": "El usuario se envenena al empezar el combate y aumenta un 10% su evasión.",
         "Ruta": "",
         "Rareza": "Épica",
         "Admin": "",
