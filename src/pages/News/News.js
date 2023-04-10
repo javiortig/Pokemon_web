@@ -91,14 +91,14 @@ function News() {
                     className="d-flex border-bottom-blue pt-3 pb-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">El team Aqua recluta nuevos miembros en su plantilla</h5>
+                      <h5 className="noticias">Beneficios en el casino de Ciudad Azulona</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 17 días
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
                       <img
-                        src="/news_images/team_aqua1.jpg"
+                        src="/news_images/casino.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -112,7 +112,7 @@ function News() {
                       <h5 className="noticias">
                         Megacorp anuncia que pronto lanzará a la venta sus protomascotas</h5>
                       <div className="fs-12 noticias">
-                        <span className="mr-2 noticias">Fotos </span>Hace 21 días
+                        <span className="mr-2 noticias">Fotos </span>Hace 30 días
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
@@ -128,14 +128,14 @@ function News() {
                     className="d-flex pt-4 align-items-center justify-content-between"
                   >
                     <div className="">
-                      <h5 className="noticias">El Team Magma recupera su territorio en la ruta 7</h5>
+                      <h5 className="noticias">Megacorp mueve sus hilos políticos en el Archipiélago Seafoam</h5>
                       <div className="fs-12 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 3 semanas
                       </div>
                     </div>
                     <div className="rotate-img mi-imagen">
                       <img
-                        src="/news_images/Drake_patrick_aurek.jpg"
+                        src="/news_images/corrupcion.jpg"
                         alt="thumb"
                         className="img-fluid img-lg"
                       />
@@ -209,7 +209,7 @@ function News() {
                       <div className="position-relative">
                         <div className="rotate-img">
                           <img
-                            src="/news_images/bosque_verde.jpg"
+                            src="/news_images/team_magma.jpg"
                             alt="thumb"
                             className="img-fluid"
                             style={{width: 196, height: 136}}
@@ -217,23 +217,23 @@ function News() {
                         </div>
                         <div className="badge-positioned">
                           <span className="badge badge-danger font-weight-bold"
-                          >Celeste News</span
+                          >Azafrán News</span
                           >
                         </div>
                       </div>
                     </div>
                     <div className="col-sm-8  grid-margin">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        Homicido devastador en las profundidades del Bosque Verde
+                          Desfile del Team Magma en la ruta 7
                       </h2>
                       <div className="fs-13 mb-2 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 5 días
                       </div>
                       <p className="mb-0 noticias">
-                        Unos cazabichos de la zona aseguran haber presenciado el asesinato de un
-                        compañero de oficio a manos de dos varones. Dicen que vieron cómo de un solo ataque
-                        sincronizado fue catapultado a través del bosque, y fue tal el impacto que generó un nuevo atajo en el lugar, 
-                        con su fauna propia y todo.
+                        Para celebrar la victoria y conquista de la ruta, el team magma ha declarado 2 semanas
+                        festivas en el lugar, colgando carteles de su insignia y de sus dos oficiales, Aurek
+                        y Patrick Bateman. Si no eres del team Aqua, puedes ir para que te inviten a su delicioso
+                        oden hirviendo.
                       </p>
                       <br></br>
                     </div>
@@ -259,15 +259,16 @@ function News() {
                     </div>
                     <div className="col-sm-8">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        Triple homocidio en las profundidades del Túnel Roca
+                        ALta circulación en el Túnel Roca
                       </h2>
                       <div className="fs-13 mb-2 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 9 días
                       </div>
                       <p className="mb-0 noticias">
-                        Tres cadáveres, dos de ellos exmiembros del Team Magma, han sido encontrados,
-                        presuntamente asesinados, en el segundo piso del Túnel Roca. Aunque no se sabe nada más
-                        al respecto, ciertas investigaciones apuntan a que podría tratarse de una venganza.
+                        Últimamente está la cosa difícil para los montañeros. En el último mes, ambas facciones
+                        han cometido terribles asesinatos el nuestro preciado Túnel. Además, las apuestas clandestinas
+                        están en auge, incluso organizando codiciosos torneos de póker pirata, con valiosos premios
+                        como el Amuleto Iris.
                       </p>
                       <br></br>
                     </div>
