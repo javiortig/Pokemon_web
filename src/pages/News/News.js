@@ -58,7 +58,7 @@ function News() {
             <div className="col-xl-8 stretch-card grid-margin">
               <div className="position-relative">
                 <img
-                  src="/news_images/blaziken.jpg"
+                  src="/news_images/coliseo.webp"
                   alt="banner"
                   className="img-fluid"
                   style={{width: 690, height: 390}}
@@ -68,11 +68,12 @@ function News() {
                   <div className="badge badge-danger fs-12 font-weight-bold mb-3">
                     Plateada News
                   </div>
-                  <h1 className="mb-0 text-white noticias">Motosierra ha sido aniquilado</h1>
+                  <h1 className="mb-0 text-white noticias">Victoria Mayúscula del Team Magma</h1>
                   <h3 className="mb-2 text-white noticias">
-                    Tras 503 combates invicto, el gran guerrero Motosierra fue derrotado por dos combatientes
-                    procedentes de Pueblo Paleta, miembros del Team Magma. El excampeón fue abasallado en un solo 
-                    turno por dos habilidosos Blazikens.
+                    En el coliseo de Ciudad Plateada, ambos equipos contrincantes se jugaron el control
+                    de la ruta 7, que lleva en conflicto desde hace 50 años. El team Aqua fue derrotado en
+                    los tres combates del evento, tanto los individuales como el combate doble, por los oficiales
+                    Patrick Bateman y Aurek. A raíz de su victoria, estos obtenieron la codiciada eviolita
 
                   </h3>
                   <div className="fs-12">
