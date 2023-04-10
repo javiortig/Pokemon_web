@@ -259,7 +259,7 @@ function News() {
                     </div>
                     <div className="col-sm-8">
                       <h2 className="mb-2 font-weight-600 noticias">
-                        ALta circulación en el Túnel Roca
+                        Alta circulación en el Túnel Roca
                       </h2>
                       <div className="fs-13 mb-2 noticias">
                         <span className="mr-2 noticias">Foto </span>Hace 9 días
