@@ -1068,7 +1068,7 @@ export const objetos =
     },
     {
         "Nombre": "Cola plúmbea",
-        "Descripcion": "Otorga -10 de velocidad al portador y +10% de crítico",
+        "Descripcion": "Otorga -10 de velocidad al portador y +10% de crítico.",
         "Ruta": "",
         "Rareza": "Poco Común",
         "Admin": "",
@@ -1081,7 +1081,7 @@ export const objetos =
     },
     {
         "Nombre": "Metrónomo",
-        "Descripcion": "El portador obtiene +20% de crítico cada vez consecutiva que acierte un movimiento ofensivo.",
+        "Descripcion": "El portador obtiene +30% de crítico cada vez consecutiva que acierte el mismo movimiento ofensivo.",
         "Ruta": "",
         "Rareza": "Legendaria",
         "Admin": "",
